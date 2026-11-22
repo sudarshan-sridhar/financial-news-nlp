@@ -58,6 +58,10 @@ ROUGE F1 x 100 with stemming. BERTScore F1 uses roberta-large without rescaling.
 |---|---|---|---|---|---|
 | Majority class (neutral) | 0.6203 | 0.2552 | 0.00 | 0.77 | 0.00 |
 | TF-IDF 1-2gram + logistic regression | 0.864 | 0.807 | 0.72 | 0.91 | 0.79 |
+| FinBERT released head (ProsusAI/finbert, trained on PhraseBank by its authors) | 0.954 | 0.945 | 0.94 | 0.97 | 0.92 |
+| **FinBERT fine-tuned on our split** | **0.965** | **0.952** | 0.94 | 0.98 | 0.93 |
+
+> **Caveat.** The released FinBERT checkpoint was itself fine-tuned on Financial PhraseBank, so its row is not a clean held-out number. The TF-IDF model is the honest baseline; the fine-tuned model on our own split is the main result.
 
 ## Repository layout
 
@@ -66,6 +70,7 @@ src/
   ectsum_stats_baseline.py   ECTSum statistics, Lead-4 and TF-IDF baselines, ROUGE harness
   fpb_download.py            Financial PhraseBank download (Hugging Face mirror)
   fpb_stats_baseline.py      PhraseBank statistics, seed-42 split, majority and TF-IDF baselines
+  fpb_finbert.py             FinBERT released-head evaluation and fine-tuning
 results/                     one JSON (and prediction file) per experiment; every number above comes from here
 tools/build_readme.py        regenerates this README from results/
 ```
@@ -80,6 +85,7 @@ python src/fpb_download.py data/fpb
 # statistics and baselines
 python src/ectsum_stats_baseline.py data/ectsum/ECTSum/data/final results
 python src/fpb_stats_baseline.py data/fpb results
+python src/fpb_finbert.py data/fpb results runs --epochs 3            # about 1 min on an 8 GB laptop GPU
 python tools/build_readme.py
 ```
 
@@ -90,6 +96,7 @@ All seeds are fixed at 42. Model weights are written to `runs/` and are not comm
 | Date | Milestone |
 |---|---|
 | 2026-11-22 | Dataset statistics, saved PhraseBank split, and extractive and lexical baselines for ECTSum and Financial PhraseBank |
+| 2026-11-22 | Fine-tune FinBERT on the seed-42 PhraseBank split |
 
 ## Team
 
