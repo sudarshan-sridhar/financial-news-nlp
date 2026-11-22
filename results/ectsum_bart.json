@@ -1,0 +1,58 @@
+{
+  "model": "facebook/bart-base",
+  "device": "cuda",
+  "seed": 42,
+  "long_input": "head truncation to 1024 tokens",
+  "n_train": 1681,
+  "n_val": 249,
+  "n_test": 495,
+  "pretrained_zero_shot_val50": {
+    "rouge1": 13.58,
+    "rouge2": 2.59,
+    "rougeL": 9.02
+  },
+  "best_epoch": 2,
+  "test_rouge": {
+    "rouge1": 32.09,
+    "rouge2": 17.77,
+    "rougeL": 28.15
+  },
+  "test_gen_seconds": 99,
+  "train_seconds": 212,
+  "pred_words_mean": 21.5,
+  "test_bertscore_f1": 0.8698,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 2.3136,
+      "val100_rouge": {
+        "rouge1": 31.66,
+        "rouge2": 18.04,
+        "rougeL": 27.54
+      },
+      "elapsed_s": 106
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.8262,
+      "val100_rouge": {
+        "rouge1": 31.48,
+        "rouge2": 17.82,
+        "rougeL": 28.16
+      },
+      "elapsed_s": 210
+    }
+  ],
+  "hparams": {
+    "epochs": 2,
+    "lr": 3e-05,
+    "batch_size": 2,
+    "grad_accum": 8,
+    "effective_batch": 16,
+    "max_in": 1024,
+    "max_out": 128,
+    "beams": 4,
+    "no_repeat_ngram": 3,
+    "precision": "bf16 autocast"
+  }
+}
