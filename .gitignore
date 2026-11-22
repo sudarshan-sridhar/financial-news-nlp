@@ -1,0 +1,17 @@
+# data and model weights stay local
+data/
+runs/
+*.pt
+*.bin
+*.safetensors
+# logs and scratch
+*.log
+pip_torch.log
+.release_queue/
+node_modules/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# office temp files
+~$*
+*.tmp

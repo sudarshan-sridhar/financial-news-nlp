@@ -1,0 +1,137 @@
+{
+  "source": "HF repo takala/financial_phrasebank -> data/FinancialPhraseBank-v1.0.zip (raw txt parsed; HF loading script unsupported in datasets 5.x)",
+  "label_distribution": {
+    "50agree": {
+      "n": 4846,
+      "negative": {
+        "count": 604,
+        "pct": 12.46
+      },
+      "neutral": {
+        "count": 2879,
+        "pct": 59.41
+      },
+      "positive": {
+        "count": 1363,
+        "pct": 28.13
+      }
+    },
+    "66agree": {
+      "n": 4217,
+      "negative": {
+        "count": 514,
+        "pct": 12.19
+      },
+      "neutral": {
+        "count": 2535,
+        "pct": 60.11
+      },
+      "positive": {
+        "count": 1168,
+        "pct": 27.7
+      }
+    },
+    "75agree": {
+      "n": 3453,
+      "negative": {
+        "count": 420,
+        "pct": 12.16
+      },
+      "neutral": {
+        "count": 2146,
+        "pct": 62.15
+      },
+      "positive": {
+        "count": 887,
+        "pct": 25.69
+      }
+    },
+    "allagree": {
+      "n": 2264,
+      "negative": {
+        "count": 303,
+        "pct": 13.38
+      },
+      "neutral": {
+        "count": 1391,
+        "pct": 61.44
+      },
+      "positive": {
+        "count": 570,
+        "pct": 25.18
+      }
+    }
+  },
+  "stats_75agree": {
+    "n": 3453,
+    "mean_words": 22.76,
+    "median_words": 21.0,
+    "max_words": 81,
+    "min_words": 2,
+    "exact_duplicate_sentences": 5,
+    "n_after_dedup": 3448,
+    "duplicates_with_conflicting_labels": 0
+  },
+  "split": {
+    "train": {
+      "n": 2758,
+      "neutral": 1713,
+      "positive": 709,
+      "negative": 336
+    },
+    "dev": {
+      "n": 345,
+      "positive": 89,
+      "neutral": 214,
+      "negative": 42
+    },
+    "test": {
+      "n": 345,
+      "neutral": 214,
+      "positive": 89,
+      "negative": 42
+    }
+  },
+  "majority_baseline": {
+    "class": "neutral",
+    "accuracy": 0.6203,
+    "macro_f1": 0.2552
+  },
+  "tfidf_logreg": {
+    "accuracy": 0.8638,
+    "macro_f1": 0.8069,
+    "per_class_f1": {
+      "negative": 0.7164,
+      "neutral": 0.9135,
+      "positive": 0.7907
+    },
+    "confusion_matrix_rows_true_cols_pred": {
+      "labels": [
+        "negative",
+        "neutral",
+        "positive"
+      ],
+      "matrix": [
+        [
+          24,
+          11,
+          7
+        ],
+        [
+          0,
+          206,
+          8
+        ],
+        [
+          1,
+          20,
+          68
+        ]
+      ]
+    },
+    "dev_accuracy": 0.8638
+  },
+  "finbert_zero_shot": {
+    "skipped": "transformers/torch not installed"
+  }
+}

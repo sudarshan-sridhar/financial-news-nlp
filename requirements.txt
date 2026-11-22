@@ -1,0 +1,10 @@
+torch>=2.5          # install the CUDA build for your GPU, e.g. --index-url https://download.pytorch.org/whl/cu128
+transformers>=4.45
+accelerate
+sentencepiece
+huggingface_hub
+scikit-learn>=1.5
+pandas
+numpy
+rouge-score
+bert-score
