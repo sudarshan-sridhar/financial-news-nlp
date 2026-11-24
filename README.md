@@ -66,6 +66,21 @@ ROUGE F1 x 100 with stemming. BERTScore F1 uses roberta-large without rescaling.
 
 > **Caveat.** The released FinBERT checkpoint was itself fine-tuned on Financial PhraseBank, so its row is not a clean held-out number. The TF-IDF model is the honest baseline; the fine-tuned model on our own split is the main result.
 
+## Events and entities (PhraseBank test, 345 sentences)
+
+A six-category rule tagger (earnings result, guidance, acquisition or merger, financing or share issue, contract or order, management change) plus `dslim/bert-base-NER` for company spans. No gold event labels exist in the dataset, so the tagger is measured by coverage and by a manual precision review.
+
+| Category | Sentences tagged |
+|---|---|
+| earnings result | 82 |
+| contract order | 45 |
+| guidance | 35 |
+| acquisition merger | 10 |
+| financing share issue | 7 |
+| management change | 6 |
+
+Tagger fires on 171 of 345 sentences; NER finds an organisation in 189. Manual review of 53 tagged sentences gives precision 0.57 overall (0.86 financing, 0.80 acquisition, 0.70 earnings, 0.40 contract and guidance, 0.17 management change); estimated recall 0.71.
+
 ## Repository layout
 
 ```text
@@ -75,6 +90,7 @@ src/
   fpb_stats_baseline.py      PhraseBank statistics, seed-42 split, majority and TF-IDF baselines
   fpb_finbert.py             FinBERT released-head evaluation and fine-tuning
   ectsum_bart.py             BART-base fine-tuning with head truncation, ROUGE + BERTScore
+  event_rules.py             rule-based event tagger + NER coverage
 results/                     one JSON (and prediction file) per experiment; every number above comes from here
 tools/build_readme.py        regenerates this README from results/
 ```
@@ -91,6 +107,7 @@ python src/ectsum_stats_baseline.py data/ectsum/ECTSum/data/final results
 python src/fpb_stats_baseline.py data/fpb results
 python src/fpb_finbert.py data/fpb results runs --epochs 3            # about 1 min on an 8 GB laptop GPU
 python src/ectsum_bart.py data/ectsum/ECTSum/data/final results runs --epochs 2 --bertscore   # about 6 min
+python src/event_rules.py data/fpb results
 python tools/build_readme.py
 ```
 
@@ -103,6 +120,7 @@ All seeds are fixed at 42. Model weights are written to `runs/` and are not comm
 | 2026-11-22 | Dataset statistics, saved PhraseBank split, and extractive and lexical baselines for ECTSum and Financial PhraseBank |
 | 2026-11-22 | Fine-tune FinBERT on the seed-42 PhraseBank split |
 | 2026-11-22 | Fine-tune BART-base on ECTSum with head truncation |
+| 2026-11-23 | Add rule-based financial event tagger and NER coverage on the PhraseBank test split |
 
 ## Team
 

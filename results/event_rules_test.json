@@ -1,0 +1,4002 @@
+[
+ {
+  "sentence":"Foundries division reports its sales increased by 9.7 % to EUR 63.1 mn from EUR 57.5 mn in the corresponding period in 2006 , and sales of the Machine Shop division increased by 16.4 % to EUR 41.2 mn from EUR 35.4 mn in the corresponding period in 2006 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Foundries",
+   "Machine Shop division"
+  ]
+ },
+ {
+  "sentence":"HELSINKI ( AFX ) - Shares closed higher , led by Nokia after it announced plans to team up with Sanyo to manufacture 3G handsets , and by Nokian Tyres after its fourth-quarter earnings report beat analysts ' expectations , dealers said .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "##SIN",
+   "Nokia",
+   "Sanyo",
+   "Nokian Tyres"
+  ]
+ },
+ {
+  "sentence":"Net sales increased to EUR193 .3 m from EUR179 .9 m and pretax profit rose by 34.2 % to EUR43 .1 m. ( EUR1 = USD1 .4 )",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Net sales surged by 18.5 % to EUR167 .8 m. Teleste said that EUR20 .4 m , or 12.2 % , of the sales came from the acquisitions made in 2009 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Teleste"
+  ]
+ },
+ {
+  "sentence":"A Helsinki : ELIiV today reported EPS of EUR1 .13 for 2009 , an increase over EPS of EUR1 .12 in 2008 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "ELIiV"
+  ]
+ },
+ {
+  "sentence":"Sales increased due to growing market rates and increased operations .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The bank forecasts Finland 's GDP will grow by 2 % in 2010 and in 2011 .",
+  "label":"positive",
+  "events":[
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Finnish Bank of +\u00e0land reports its operating profit rose to EUR 21.3 mn in the second quarter of 2009 from EUR 6.1 mn in the corresponding period in 2008 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Finnish Bank of + \u00e0land"
+  ]
+ },
+ {
+  "sentence":"Advertising and circulation revenues grew by 3.4 % and by 0.4 % , respectively .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"After the takeover , Cramo will become the second largest rental services provider in the Latvian market .",
+  "label":"positive",
+  "events":[
+   "acquisition_merger"
+  ],
+  "money":false,
+  "orgs":[
+   "Cramo"
+  ]
+ },
+ {
+  "sentence":"Again , the most significant sales increase of 18.6 % was in Russia .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"At the same time profit of the company increased by 10 % in H1 and reached Ls 79,000 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Both operating profit and net sales for the 12-month period increased , respectively from EUR10 .5 m and EUR28 .8 m , as compared to the financial year 2004 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Both operating profit and net sales for the 12-month period increased , respectively from EUR20 .8 m and EUR177 .7 m , as compared to the financial year 2004 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Both operating profit and turnover for the six-month period increased , respectively from EUR0 .1 m and EUR29 .0 m , as compared to the corresponding period a year ago .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Digia said its consolidated net sales for January-June 2010 were EUR67 .8 m , up 9.7 % on the same period in 2009 ( EUR61 .9 m ) .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Digia"
+  ]
+ },
+ {
+  "sentence":"Finnish department store chain Stockmann Oyj Abp net profit rose to 39.8 mln euro ( $ 56.8 mln ) for the first nine months of 2007 from 37.4 mln euro ( $ 53.4 mln ) for the same period of 2006 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Stockmann Oyj Abp"
+  ]
+ },
+ {
+  "sentence":"Finnish office supplies and computer accessories dealer Beltton-Group Plc said its net profit rose to 1.3 mln euro ( $ 1.7 mln ) in 2006 from 1.13 mln euro ( $ 1.5 mln ) in 2005 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Beltton",
+   "Group Plc"
+  ]
+ },
+ {
+  "sentence":"Following the acquisition , Relacom will strengthen its presence in Finland , serving operators and office market with mobile and fixed networks construction , installation and maintenance services .",
+  "label":"positive",
+  "events":[
+   "acquisition_merger"
+  ],
+  "money":true,
+  "orgs":[
+   "Relacom"
+  ]
+ },
+ {
+  "sentence":"HELSINKI ( AFX ) - Retail and wholesale group Kesko reported net sales of 659.4 mln eur for February , an increase of 10.8 pct year-on-year .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "H",
+   "##SINK",
+   "Kesko"
+  ]
+ },
+ {
+  "sentence":"In the second quarter of 2010 , the group 's net profit rose to EUR3 .1 m from EUR2 .5 m in April-June 2009 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"( ADP News ) - Oct 29 , 2008 - Finnish lifting equipment maker Konecranes Oyj ( OMX : KCR1V ) said today that its net profit rose to EUR 116.6 million ( USD 149.1 m ) in the first nine months of 2008 from EUR 73.6 million for the s",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "ADP News",
+   "Konecranes Oyj"
+  ]
+ },
+ {
+  "sentence":"Net interest income was EUR 39.3 mn , up from EUR 32.7 mn .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Operating profit rose to EUR 26.7 mn from EUR 14.9 mn in the corresponding period in 2006 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Operating profit rose to EUR 4.7 mn from EUR 4.6 mn .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Operating profit was EUR 139.7 mn , up 23 % from EUR 113.8 mn .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Profit for the period was EUR 9.8 mn , up from EUR 6.0 mn in 2004 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Revenue in July to September grew 14 percent to ( EURO ) 467 million from a year earlier , the company said Thursday .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "EU"
+  ]
+ },
+ {
+  "sentence":"Sales in Latin America increased by 42 % to EUR 432mn , and a total of 8.7 mn mobile devices were sold in the area , representing an increase of 32 % from the corresponding period in 2009 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Satama 's net profit for the third quarter of 2007 rose to 275,000 euro ( $ 395,000 ) from 270,000 euro ( $ 388,000 ) for the same period of 2006 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Satama"
+  ]
+ },
+ {
+  "sentence":"Svyturys-Utenos Alus , which is controlled by the Nordic group Baltic Beverages Holding ( BBH ) , posted a 6.1 percent growth in beer sales for January-September to 101.99 million liters .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Svyturys",
+   "Utenos Alus",
+   "Baltic Beverages Holding",
+   "B",
+   "##BH"
+  ]
+ },
+ {
+  "sentence":"The chain posted sales of 298 million euros for full 2005 , a rise of 19.5 percent , year-on-year .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The company expects its net sales in 2008 to increase 5-10 % from 2007 .",
+  "label":"positive",
+  "events":[
+   "earnings_result",
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The fair value of the investment properties totaled EUR 2,534.9 mn , up from EUR 2,455.1 mn in 2006 .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"1 February 2011 - Finnish textile and clothing company Marimekko Oyj HEL : MMO1V said today its preliminary operating profit grew to EUR8 .2 m in 2010 from EUR6 .3 m in 2009 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Marimekko Oyj H",
+   "MMO1V"
+  ]
+ },
+ {
+  "sentence":"Earnings per share for January-June 2010 were EUR0 .30 , an increase of 20 % year-on-year EUR0 .25 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"In addition to the demand in Finland , the export of lining stone products also increased .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Last year 's net sales rose to EUR 68.3 million from EUR 62.2 million .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Nevertheless , its market share rose to 49.14 percent from 48.51 percent a year earlier .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The pretax profit of the group 's life insurance business increased to EUR36m from EUR27m .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"At the same time , the market for automated liquid handling devices is already larger than that for pipettes , according to Biohit .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Biohit"
+  ]
+ },
+ {
+  "sentence":"To be number one means creating added value for stakeholders in everything we do .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Rental of building equipment accounted for 88 percent of the operating income .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The contract covers the manufacturing , surface-treatment and installation of the steel structures .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The repayment of EUR 105 million debenture bonds is related to the Company 's previous announcement on October 21 , 2009 to collect irrevocable selling commitments from the holders of its subordinated debenture bonds .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"VNH generates annual net sales of about 5 mln eur and employs 21 people .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "VNH"
+  ]
+ },
+ {
+  "sentence":"Pharmaceuticals group Orion Corp reported a fall in its third-quarter earnings that were hit by larger expenditures on R&D and marketing .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Orion Corp",
+   "R & D"
+  ]
+ },
+ {
+  "sentence":"Helsinki on October 22 , 2008 SSH COMMUNICATIONS SECURITY CORP Board of Directors For further information , please contact : Tomi Laamanen , Chairman , tel. +358 0 400 609 544 Distribution : NASDAQ OMX Helsinki Ltd. .",
+  "label":"neutral",
+  "events":[
+   "management_change"
+  ],
+  "money":false,
+  "orgs":[
+   "OMX Helsinki Ltd"
+  ]
+ },
+ {
+  "sentence":"The robust growth was the result of the inclusion of clothing chain Lindex in the Group in December 2007 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":false,
+  "orgs":[
+   "Lindex",
+   "Group"
+  ]
+ },
+ {
+  "sentence":"Repair and maintenance business accounted for net sales of EUR 645.3 mn , up from EUR 563.6 mn .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The Vuokatti unit will be developed to focus especially on the manufacture of prototypes , the ramp-up of new products and the demanding testing and after-sales services .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+   "##uokatti"
+  ]
+ },
+ {
+  "sentence":"AGJ recorded EUR 43 mln sales in 2006 , most of which was generated by exports to customers in Western Europe , the statement said .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "AGJ"
+  ]
+ },
+ {
+  "sentence":"Unit costs for flight operations fell by 6.4 percent .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The plan is estimated to generate some EUR 5 million ( USD 6.5 m ) in cost savings on an annual basis .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Finnish power supply solutions and systems provider Efore Oyj said its net loss widened to 3.2 mln euro $ 4.2 mln for the first quarter of fiscal 2006-2007 ending October 31 , 2007 from 900,000 euro $ 1.2 mln for the same period of fiscal 2005-06 .",
+  "label":"negative",
+  "events":[
+   "earnings_result",
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "Efore Oyj"
+  ]
+ },
+ {
+  "sentence":"ADP News - Apr 22 , 2009 - Finnish business information systems developer Solteq Oyj HEL : STQ1V said today its net loss widened to EUR 189,000 USD 245,000 for the first quarter of 2009 from EUR 10,000 for the same peri",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "ADP News",
+   "Solteq Oyj"
+  ]
+ },
+ {
+  "sentence":"The stock price rose 70.0 ores or 0.9 % to close at SEK77 .65 , ending a two-day streak of losses .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Operating profit totalled EUR 0.4 mn , up from an operating loss of EUR 0.8 mn year-on-year .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The aim is an annual improvement in Ruukki Construction 's operating profit of more than EUR 3 million USD 4.1 m starting in 2009 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Ruukki Construction"
+  ]
+ },
+ {
+  "sentence":"The rebuilds are designed to improve the machines ' performance and product quality .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"`` Stonesoft sees great promise in the future of IPv6 .",
+  "label":"positive",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+   "Stonesoft"
+  ]
+ },
+ {
+  "sentence":"Finnish Metso Paper has won an order to supply an uncoated fine paper machine to MCC Paper Yinhe , in China .",
+  "label":"positive",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "Metso Paper",
+   "MCC Paper Yin"
+  ]
+ },
+ {
+  "sentence":"According to Atria 's President and CEO Matti Tikkakoski , the company 's Swedish operations significantly improved in the first quarter .",
+  "label":"positive",
+  "events":[
+   "management_change"
+  ],
+  "money":false,
+  "orgs":[
+   "Atria"
+  ]
+ },
+ {
+  "sentence":"According to Kesko , the company agreed with the city administration about lease of the building in 2006 , its resettlement and construction of a five-star hotel Hilton for 120 rooms .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Kesko",
+   "Hilton"
+  ]
+ },
+ {
+  "sentence":"Finnish handling systems company Cargotec Oyj ( HEL : CGCBV ) said today that it won a EUR 13 million ( USD 16.6 m ) contract to deliver MacGregor hatch covers for ships ordered by Norwegian shipowner Grieg Shipping .",
+  "label":"positive",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "Cargotec Oyj",
+   "CGCBV",
+   "MacGregor",
+   "Grieg Shipping"
+  ]
+ },
+ {
+  "sentence":"Fiskars has a strong portfolio of international brands , which include Fiskars , Iittala , Gerber , Silva and Buster .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Fiskars",
+   "Fiskars",
+   "Iittala",
+   "Gerber",
+   "Silva",
+   "Buster"
+  ]
+ },
+ {
+  "sentence":"NORDIC BUSINESS REPORT-26 June 2006-Metso Corporation wins EUR50m equipment order in Australia -\u00ae 1998-2006 M2 COMMUNICATIONS LTD The Finnish engineering and technology group Metso Corporation said on Monday ( 26 June ) that it has received a EUR50m equipment order in Australia .",
+  "label":"positive",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "NO",
+   "Metso Corporation",
+   "LT",
+   "Metso Corporation"
+  ]
+ },
+ {
+  "sentence":"The company is also featured in the Ethibel Pioneer Investment Register and included in Innovest 's Global 100 list of the world 's most sustainable corporations .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Innovest"
+  ]
+ },
+ {
+  "sentence":"The original name Componenta +\u00e0m+\u00d1l , as a subsidiary of the Finnish Componenta Group , has been changed to +\u00e0m+\u00d1l Components and the company has seen a 63 % growth in Q1 2010 , in comparison to Q1 2009 .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Co",
+   "##nent",
+   "Componenta Group"
+  ]
+ },
+ {
+  "sentence":"The planned facility , estimated to cost around $ 814 million , would be the largest biodiesel plant in the world , and use palm oil certified by the Roundtable on Sustainable Palm Oil ( RSPO ) .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "RS"
+  ]
+ },
+ {
+  "sentence":"Cargotec Germany GmbH has been awarded a contract by Stadtverwaltung Mainz for chassis bodies under Open procedure .",
+  "label":"positive",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "Cargotec Germany GmbH",
+   "St",
+   "##adtverwaltung Mainz"
+  ]
+ },
+ {
+  "sentence":"Productional situation has now improved .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Rautaruukki said construction group YIT has awarded it a 2.5 mln eur contract to supply the steel structures for a new bridge spanning the Kemijoki river in Northern Finland .",
+  "label":"positive",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "Rautaruukki",
+   "YIT"
+  ]
+ },
+ {
+  "sentence":"The EPS improved to EUR0 .38 from EUR0 .27 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "EPS"
+  ]
+ },
+ {
+  "sentence":"This acquisition supports our strategy of being close to our customers all around the world offering both equipment and related services .",
+  "label":"positive",
+  "events":[
+   "acquisition_merger"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Amer Sports divests an industrial site in Rumilly , France -  This announcement is distributed by Thomson Reuters on behalf of Thomson Reuters clients .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Amer Sports",
+   "Thomson Reuters",
+   "Thomson Reuters"
+  ]
+ },
+ {
+  "sentence":"Simultaneously , his responsibility area is extended from legal affairs to cover also mergers and acquisitions .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Once your plants are in the ground they will continue to grow , but the success of any garden lies in how well it 's maintained .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Alfa group will have 43.9 % of voting stock in the new company and Telenor 35.4 % with a free float of 20.7 % .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Alfa",
+   "Telenor"
+  ]
+ },
+ {
+  "sentence":"He does not believe , however , that HKScan or Atria will start to use imported meat as Finnish consumers prefer domestic products .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "HKScan",
+   "Atria"
+  ]
+ },
+ {
+  "sentence":"Le Lay succeeds Walter G++nter and will be based in Finland .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Los Angeles-based Pacific Office Properties Trust acquires , owns , and operates office properties in the western U.S. , focusing initially on the markets of Honolulu , San Diego , Los Angeles , and Phoenix .",
+  "label":"neutral",
+  "events":[
+   "acquisition_merger"
+  ],
+  "money":false,
+  "orgs":[
+   "Pacific Office Properties Trust"
+  ]
+ },
+ {
+  "sentence":"The invention carries International Patent Publication No. .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The inventors are Bylander Johan , Ponten Fredrik and Lundberg Jorgen .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The market making in accordance with the agreement will begin on September 24 , 2009 .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"`` The issues identified by Stonesoft affect a range of content inspection technology .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Stonesoft"
+  ]
+ },
+ {
+  "sentence":"Aldata to Share Space Optimization Vision at Apollo User Group and 2009 Category Management Association Conferences ; Company Will Unveil New Solution that Combines Business Intelligence with Space Planning Data at Conferences",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Apollo User Group",
+   "Category Management Association",
+   "Company",
+   "Business Intelligence",
+   "Space Planning Data"
+  ]
+ },
+ {
+  "sentence":"Competition authorities will have to approve the deal before it can be finalized .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Dopplr members share personal and business travel plans privately with their networks , and highlight interesting places to stay , eat and explore in cities around the world .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Do"
+  ]
+ },
+ {
+  "sentence":"Harold W. Young is an independent broker working closely with several retailers including Ahold USA , Market Basket , CVS , BJ 's Wholesale Club , Hannaford and Cumberland Farms .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Ahold USA",
+   "Market Basket",
+   "CVS",
+   "BJ ' s Wholesale Club",
+   "Hannaford",
+   "Cumberland Farms"
+  ]
+ },
+ {
+  "sentence":"However short-term rentals are becoming more popular .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Jon Risfelt is 49 years old holds a Master of Science in Chemical Engineering from the Swedish Royal Institute of Technology .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Royal Institute of Technology"
+  ]
+ },
+ {
+  "sentence":"Look out for vintage fabric cushion covers , '70s coffee pots , ceramic serving dishes , cocktail glasses , and stainless steel party dishes .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Outotec , headquartered in Espoo , Finland , is a leading provider of process solutions , technologies and services for the mining and metallurgical industries .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Outotec"
+  ]
+ },
+ {
+  "sentence":"Shares will be acquired in accordance with section 5 of the rules of NASDAQ OMX Helsinki and other rules applicable to the acquisition of own shares .",
+  "label":"neutral",
+  "events":[
+   "guidance",
+   "acquisition_merger"
+  ],
+  "money":false,
+  "orgs":[
+   "##MX Helsinki"
+  ]
+ },
+ {
+  "sentence":"She will succeed Krister Kylas , who has decided to leave TeliaSonera .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "TeliaSonera"
+  ]
+ },
+ {
+  "sentence":"The business has sales of about ( Euro ) 35 million ( $ 44million ) , and has been responsible for sales and marketing of Lanxess 's paper chemicals business , which Kemira bought for ( Euro ) 88 million early this year ( CW , Jan. 11 , p. 22 ) .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Lanxess",
+   "Kemira",
+   "CW"
+  ]
+ },
+ {
+  "sentence":"`` With this new version it is very important for us to introduce a BIM process that is based on the detailed building information model .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"At the beginning of the subscription period on May 2 , 2006 the share subscription price under B option right is EUR 10.22 per share .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"It is the last smartphone running Maemo 5 , which is to be replaced with MeeGo , a joint project between Nokia , Intel and the open source community .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Me",
+   "##o",
+   "Nokia",
+   "Intel"
+  ]
+ },
+ {
+  "sentence":"Kaupthing Bank will publish its annual results for 2007 before markets open on Thursday 31 January .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Kaupthing Bank"
+  ]
+ },
+ {
+  "sentence":"Outotec 's scope of delivery covers the engineering , supply of special equipment and services for a calcination plant with two circulating fluid bed calciners .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "Outotec"
+  ]
+ },
+ {
+  "sentence":"Peigs www.peigs.se will become part of Sardus Latta Maltider Light Meals unit .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Sardus Latta Maltider Light Meals"
+  ]
+ },
+ {
+  "sentence":"SCOPI Chief Business Excellence Officer , Eng .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "SCOPI"
+  ]
+ },
+ {
+  "sentence":"The contracts awarded to date , in connection with the system , amount to a total EUR 36 million .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The order was valued at USD12 .2 m.",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The outsourced Scan and Capture solutions transfer paper invoices into electronic format , and Basware Business Transactions Service allows the customer to receive and send invoices in an electronic format .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Scan and Capture",
+   "Basware Business Transactions Service"
+  ]
+ },
+ {
+  "sentence":"The second-quarter net sales are expected to be on par with the first quarter of 2009 .",
+  "label":"neutral",
+  "events":[
+   "earnings_result",
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The total project duration is three years and it is valued at some EUR11 .5 m.",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"To showcase our end-to-end capabilities at the Mobile World Congress , we arranged an internal MeeGo application development competition to entice developers to create new applications .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Me",
+   "##Go"
+  ]
+ },
+ {
+  "sentence":"VDW combined with LXE devices enhances productivity , enabling workers to use a single device to perform voice , scanning and keyboard functions .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "VDW",
+   "L"
+  ]
+ },
+ {
+  "sentence":"HELSINKI (Thomson Financial)- Kemira GrowHow swung into profit in its first quarter earnings on improved sales , especially in its fertilizer business in Europe , which is normally stronger during the first quarter .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "HELSINKI",
+   "Thomson Financial",
+   "Kemira GrowHow"
+  ]
+ },
+ {
+  "sentence":"MD Henning Bahr of Stockmann Gruppen praises the trend , since the chains become stronger and their decision-making processes more clear .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Stockmann Gruppen"
+  ]
+ },
+ {
+  "sentence":"Vaahto Pulp & Paper , of Finnish Vaahto Group , has been awarded an order to renovate Finnish-Swedish forest industry company Stora Enso 's paperboard machine at the Ingerois Board Mill in Finland .",
+  "label":"positive",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "Vaahto Pulp & Paper",
+   "V",
+   "##aahto Group",
+   "Stora Enso"
+  ]
+ },
+ {
+  "sentence":"HELSINKI AFX - KCI Konecranes said it has won an order for four hot metal ladle cranes from Indian steel producer Bhushan Steel and Strips Ltd. .",
+  "label":"positive",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "H",
+   "##ELSINK",
+   "A",
+   "KCI Konecranes",
+   "Bhushan Steel and Strips Ltd"
+  ]
+ },
+ {
+  "sentence":"Fortum needs a clear signal of commitment from the Government that the permit is available before the company will start the next round , Kuula says .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Fortum",
+   "Government"
+  ]
+ },
+ {
+  "sentence":"So far the company has awarded more than $ 350,000 worth of tools and materials .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Luxembourg-registered investment fund Amber Trust II has won the final approval of Lithuania 's Competition Council to acquire 29.6 percent of Sanitas , the country 's largest pharmaceutical producer .",
+  "label":"positive",
+  "events":[
+   "acquisition_merger",
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "Amber Trust II",
+   "Competition Council",
+   "Sanitas"
+  ]
+ },
+ {
+  "sentence":"Suominen Corporation estimates that the cost-cutting program that started in autumn 2005 , higher sales prices , and expected growth in volume of Wet Wipes , will make the company 's operations more profitable .",
+  "label":"positive",
+  "events":[
+   "earnings_result",
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+   "Suominen Corporation",
+   "Wet Wipes"
+  ]
+ },
+ {
+  "sentence":"The five-storey , eco-efficient building will have a gross floor area of about 15,000 sq m. It will also include apartments .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Full-year net sales are expected to increase by approximately 10 % , the company said .",
+  "label":"positive",
+  "events":[
+   "earnings_result",
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"In 2006 the company 's net sales amounted to approximately EUR259m and it has some 8,000 employees .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Net sales in 2010 were about EUR 2.0 billion , of which international operations accounted for roughly a quarter .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The company will pay a dividend of EUR 0.50 per share , a total of EUR 14mn .",
+  "label":"neutral",
+  "events":[
+   "financing_share_issue"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"`` The announced investment of the carmaker Hyundai for example sounds optimistically for us as of course new cars mean new tires . ''",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Hyundai"
+  ]
+ },
+ {
+  "sentence":"H+\u00d1kan Dahlstr+\u00c2m , head of mobility services at TeliaSonera , has forecast that mobile data volume on the TeliaSonera network in Sweden will rise eight-fold to 200,000 TB by 2014 .",
+  "label":"positive",
+  "events":[
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+   "H",
+   "\u00d1kan",
+   "##hlstr + \u00c2m",
+   "TeliaSonera",
+   "TeliaSonera"
+  ]
+ },
+ {
+  "sentence":"Cargotec 's sales totalled EUR 3.4 billion in 2008 and it employs approximately 10,500 people .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Cargotec"
+  ]
+ },
+ {
+  "sentence":"Elektrobit ( EB ) has renewed its IT infrastructure contract with ICT services provider Fujitsu Services for EB 's Patja service .",
+  "label":"positive",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "Elektrobit",
+   "EB",
+   "I",
+   "Fujitsu Services",
+   "EB"
+  ]
+ },
+ {
+  "sentence":"For the fiscal year ending September 30 , 2009 the revenue from these customers was $ 10.012 million or around 11.0 % of the transportation group 's revenue .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"In 2006 , TeliaSonera net sales were SEK 91 bn , EBITDA was SEK 32.266 bn , net income was SEK 19.28 bn .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "TeliaSonera",
+   "EBITDA"
+  ]
+ },
+ {
+  "sentence":"In January-September 2007 , operating profit totaled EUR 20.5 mn .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"in Q1 2010 18 May 2010 - Finnish electrical components maker Salcomp Oy ( HEL : SAL1V ) said today it turned to a net profit of EUR1 .6 m in the first quarter of 2010 versus a loss of EUR2m in the corresponding period last year .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Salcomp Oy"
+  ]
+ },
+ {
+  "sentence":"Net sales in 2007 are expected to be 10 % up on 2006 .",
+  "label":"positive",
+  "events":[
+   "earnings_result",
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Re-use back into PET bottles has also steadily increased and the rate of use in strapping tape has picked up again after a dip in 2005 , Petcore said previously .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Petcore"
+  ]
+ },
+ {
+  "sentence":"Sales are expected to increase in the end of the year 2006 , however .",
+  "label":"positive",
+  "events":[
+   "earnings_result",
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The company is well positioned in Brazil and Uruguay .",
+  "label":"positive",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The fourth quarter saw Rapala swing back to a pretax profit of 1.5 mln eur from a year earlier loss of 1.2 mln on the back of a 30 pct uplift in sales to 44.8 mln eur , and a stronger performance in North America .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Rapala"
+  ]
+ },
+ {
+  "sentence":"`` We have analyzed Kaupthing Bank Sweden and found a business which fits well into Alandsbanken , '' said Alandsbanken 's chief executive Peter Wiklof in a statement .",
+  "label":"positive",
+  "events":[
+   "management_change"
+  ],
+  "money":false,
+  "orgs":[
+   "Kaupthing Bank Sweden",
+   "Alandsbanken",
+   "Alandsbanken"
+  ]
+ },
+ {
+  "sentence":"4 February 2011 - Finnish broadband data communication systems provider Teleste Oyj HEL : TLT1V said Wednesday its net profit rocketed to EUR4 .8 m in 2010 from EUR416 ,000 in 2009 and it lifted its dividend proposal .",
+  "label":"positive",
+  "events":[
+   "earnings_result",
+   "financing_share_issue"
+  ],
+  "money":true,
+  "orgs":[
+   "Teleste Oyj H"
+  ]
+ },
+ {
+  "sentence":"Finnish broadband data communication systems provider Teleste Oyj HEL : TLT1V said yesterday it returned to a net profit of EUR 2.7 million USD 3.8 m for the first nine months of 2010 versus a net loss of EUR 579,000 for the same period of 2009 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Teleste Oyj HEL"
+  ]
+ },
+ {
+  "sentence":"Finnish silicon wafers manufacturer Okmetic Oyj said it swung to a net profit of 4.9 mln euro $ 6.3 mln in the first nine months of 2006 from a net loss of 1.8 mln euro $ 2.3 mln a year earlier .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Okmetic Oyj"
+  ]
+ },
+ {
+  "sentence":"mn , and pretax profit to EUR 46.4 mn from EUR 35.8 mn in the third quarter of 2006 .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"This new partnership agreement represents a significant milestone for both parties .",
+  "label":"positive",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Via the takeover , Panostaja further expands its business area specialising in digital printing , which since previously consists of the subsidiaries Kopijyva Oy and Sokonet Oy .",
+  "label":"positive",
+  "events":[
+   "acquisition_merger"
+  ],
+  "money":false,
+  "orgs":[
+   "Panostaja",
+   "Kopijyva Oy",
+   "Sokonet Oy"
+  ]
+ },
+ {
+  "sentence":"Ahlstrom 's 5,700 employees serve customers via sales offices and production facilities in more than 20 countries on six continents .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Ahlstrom"
+  ]
+ },
+ {
+  "sentence":"A total of 185 Wonderware Certified SIs are available to integrate and support Wonderware products such as InTouch -\u00ab HMI software , IndustrialSQL Server historian , Wonderware Information Server , DT Analyst software or QI Analyst SPC software .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Wonderware Information Server",
+   "D",
+   "Analy"
+  ]
+ },
+ {
+  "sentence":"Absolut Bank is exploring the possibility of further borrowing .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Absolut Bank"
+  ]
+ },
+ {
+  "sentence":"All rights reserved .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Alma Media holds 70 % of this company , the remaining shares being owned by the company 's key employees .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Alma Media"
+  ]
+ },
+ {
+  "sentence":"Almost the entire office building will be occupied by Metso .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"At first , Solteq 's services to companies operating in the St. Petersburg area will include maintenance and material management systems and data collection solutions .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Solteq"
+  ]
+ },
+ {
+  "sentence":"Before FKI , John Jiang has worked in several general manager or senior business consultant positions for international companies in China .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "FKI"
+  ]
+ },
+ {
+  "sentence":"COPYRIGHT AFX News and AFX Financial News Logo are registered trademarks of AFX News Limited",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "AFX News",
+   "AFX Financial News Logo",
+   "AFX News Limited"
+  ]
+ },
+ {
+  "sentence":"Cramo , headquartered in Vantaa , Finland , rents construction machinery and equipment , as well as rents and sells modular space .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Cramo"
+  ]
+ },
+ {
+  "sentence":"Each share is entitled to one vote .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Elcoteq SE is listed on the Nasdaq OMX Helsinki Ltd. .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Elcoteq SE",
+   "##q",
+   "OMX Helsinki Ltd"
+  ]
+ },
+ {
+  "sentence":"Financial Statements include the consolidated financial statements of the Group , the Board of Directors ' Report , the Auditors ' Report and the Corporate Governance Statement .",
+  "label":"neutral",
+  "events":[
+   "management_change"
+  ],
+  "money":false,
+  "orgs":[
+   "Group",
+   "Board of Directors",
+   "Auditors '"
+  ]
+ },
+ {
+  "sentence":"FinancialWire tm is not a press release service , and receives no compensation for its news , opinions or distributions .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "FinancialWire"
+  ]
+ },
+ {
+  "sentence":"Helsinki-based Componenta bought Turkish listed company Doktas in October 2006 for 89 million euros , making it the largest Finnish investment in Turkey to date .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Co",
+   "##mponenta",
+   "Do",
+   "##ktas"
+  ]
+ },
+ {
+  "sentence":"However , the offering will probably not be made at the current valuation , which partly derives from the deal in which the company was merged into a stock market shell .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"KONE is listed on the Nordic Exchange in Helsinki .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "KONE",
+   "Nordic Exchange"
+  ]
+ },
+ {
+  "sentence":"Latvia 's Stockmann shopping mall is a subsidiary of Finland 's Stockmann Plc. .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Stockmann",
+   "Stockmann Plc"
+  ]
+ },
+ {
+  "sentence":"Neste Shipping is the most likely to remain Finnish as the oil sector and its transports are significant for emergency supply .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "Neste Shipping"
+  ]
+ },
+ {
+  "sentence":"Net investment income",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"No price was given for the transaction , which merges two London companies that have worked together on a number of projects including delivery of timetables for Britain 's National Express East Coast rail networks .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "National Express East"
+  ]
+ },
+ {
+  "sentence":"PCS Digital Guatemala has been using Tecnomen 's prepaid system in Telgua fixed networks as well as code division multiple access , or CDMA , and global system for mobile communication , or GSM , since 2003 .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "PCS Digital Guatemala",
+   "Tecnomen"
+  ]
+ },
+ {
+  "sentence":"Registration is required .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"rosendal at outotec.com Eila Paatela , Vice President - Corporate Communications tel. +358 20 529 2004 , +358 400 817198 e-mail eila .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Corporate Communications"
+  ]
+ },
+ {
+  "sentence":"The business area has operations in Finland , Sweden , Denmark , Estonia , Latvia and Lithuania .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The contract involves refurbishing the bathrooms of 189 units as well as re-plumbing their water and sewer pipes .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The first group of customers to be trained will be paint-shop owners and their assistants .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The front surfaces of these valve plates are directed towards each other .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The inaugural speech will be given by Hannu Kyrolainen , Finland 's Ambassador to the Czech Republic .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The increase range will vary up to 10 % .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The Line 4 will run fully underground and will comprise 10 stations which will be executed in two implementation stages .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The maximum amount of the capital loan will be EUR30m and the minimum subscription -- EUR10 ,000 .",
+  "label":"neutral",
+  "events":[
+   "guidance",
+   "financing_share_issue"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The mill will have capacity to produce 500,000 tonnes of pulp per year .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Valga Lihatoostus markets its products under the Maks & Moorits trademark .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Valga Lihatoostus",
+   "Maks & Moorits"
+  ]
+ },
+ {
+  "sentence":"Yesterday , Legrand issued its E300 million fixed rate deal maturing 2017 .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "Legrand"
+  ]
+ },
+ {
+  "sentence":"Yvonne Jones is owner of Chameleon Interiors .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Chameleon Interiors"
+  ]
+ },
+ {
+  "sentence":"`` We know there are some of our own people out there . ''",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"A total 30 % of the order value was booked in the fourth quarter of 2009 and the remainder will be booked in the second quarter of 2010 .",
+  "label":"neutral",
+  "events":[
+   "guidance",
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"A total of 131000 Talvivaara Mining Company Plc 's new shares were subscribed for during the period between May 1 , 2010 and June 30 , 2010 under the company 's stock option rights 2007A .",
+  "label":"neutral",
+  "events":[
+   "financing_share_issue"
+  ],
+  "money":false,
+  "orgs":[
+   "Talvivaara Mining Company Plc"
+  ]
+ },
+ {
+  "sentence":"According to Finnish FIM Bank , Alpro 's price would be around EUR 100mn-150mn .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "FIM Bank",
+   "Alpro"
+  ]
+ },
+ {
+  "sentence":"According to Saarioinen 's Managing Director Ilkka M+\u00f1kel+\u00f1 , the food industry sector has a significant excess of production machinery .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Saarioinen"
+  ]
+ },
+ {
+  "sentence":"Activities range from the development of natural resources to the retailed marketing of finished products .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"ALEXANDRIA , Va. , March 15 -- Jaakko Vilo of Turku , Finland , has developed a panel press .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Aspo 's Group structure and business operations are continually developed without any predefined schedules .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Aspo",
+   "Group"
+  ]
+ },
+ {
+  "sentence":"BasWare Invoice Processing , BasWare Contract Matching , BasWare Order Matching and BasWare KPI Reporting Tool are part of the BasWare 's Enterprise Purchase to Pay product suite .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "BasWare Invoice Processing",
+   "Ba",
+   "##W",
+   "##ing",
+   "##W",
+   "Ba",
+   "##W",
+   "KPI",
+   "Tool",
+   "BasWare"
+  ]
+ },
+ {
+  "sentence":"Capital base and capital adequacy measurement is based on approaches under Basel II .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Cramo Plc is a service company specialising in construction machinery and equipment rental and rental-related services , as well as rental and sale of modular space .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Cramo Plc"
+  ]
+ },
+ {
+  "sentence":"Currently , the plant operates on full capacity .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Elisa has commissioned Finland 's Poyry Telecom Oy to conduct a study of reception in some of Estonia 's largest cities besides Tallinn .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Elisa",
+   "Poyr",
+   "##y Telecom Oy"
+  ]
+ },
+ {
+  "sentence":"Eriikka S+\u00c2derstr+\u00c2m has previously held several positions in finance and control at Nokia Networks including acting as the Business Group Controller and having the corporate controller position at Nokia Siemens Networks .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Eriikka S + \u00c2derstr + \u00c2m",
+   "Nokia Networks",
+   "Business Group",
+   "Nokia Siemens Networks"
+  ]
+ },
+ {
+  "sentence":"Financial terms were n't disclosed .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Finnish electronics contract maker Incap Oyj said on January 3 , 2008 it sold its manufacturing facilities in Helsinki to local real estate company Sponda Oyj for 5.3 mln euro ( $ 7.8 mln ) .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "Incap Oyj",
+   "Sponda Oyj"
+  ]
+ },
+ {
+  "sentence":"Glaston 's own glass processing unit , Tamglass Glass Processing , is a manufacturer of high quality safety glass products , and operates in Finland .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Glaston",
+   "Tamglass Glass Processing"
+  ]
+ },
+ {
+  "sentence":"Global Markets Direct 's Pohjola Bank plc - Financial Analysis Review is an in-depth business , financial analysis of Pohjola Bank plc. .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Global Markets Direct",
+   "Pohjola Bank plc",
+   "Financial Analysis Review",
+   "Pohjola Bank plc"
+  ]
+ },
+ {
+  "sentence":"He joined Rautakirja in 1997 to lead one of its four business areas and took up the position of President and CEO in 2001 .",
+  "label":"neutral",
+  "events":[
+   "management_change"
+  ],
+  "money":false,
+  "orgs":[
+   "Rautakirja"
+  ]
+ },
+ {
+  "sentence":"In the fourth quarter of 2006 , OKO Banks expects the operating environment for Banking and Investment Services to remain similar to that in January-September 2006 .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+   "OKO Banks",
+   "Banking and Investment Services"
+  ]
+ },
+ {
+  "sentence":"In this way , the industry 's starting point has been the consumers ' needs .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"industry in Asia +\u00f3 Pakistan , Malaysia , Taiwan and Philippines Today , Global Research & Data Services is going to publish several market analyses about the cement markets in Asia .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Today",
+   "Global Research & Data Services"
+  ]
+ },
+ {
+  "sentence":"Its annual capacity is some 10,000 MW .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Jeder Beta-Tester erh+\u00f1lt kostenlos sechs Monate lang Updates und hat laut eigener Aussage die M+\u00c2glichkeit , die finale Version zu beeinflussen .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Jed"
+  ]
+ },
+ {
+  "sentence":"Koff 's market share of the volume of the market was 23.4 % , Karhu 's 21.4 % .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "##ff",
+   "##rhu"
+  ]
+ },
+ {
+  "sentence":"L+\u00f1nnen Tehtaat 's Food Division was reorganised into two strategic business units , Apetit Frozen Foods and Jams , and Apetit Fish .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "L + \u00f1",
+   "##n Tehtaat",
+   "Food Division",
+   "Apetit Frozen Foods and Jams",
+   "Apetit Fish"
+  ]
+ },
+ {
+  "sentence":"Market data and analytics are derived from primary and secondary research .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"May 29 , 2010 ( CompaniesandMarkets.com delivered by Newstex ) -- This report provides key data and information on the meat , fish and poultry market in Finland .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "CompaniesandMarkets. com",
+   "Newstex"
+  ]
+ },
+ {
+  "sentence":"No other ev3 devices were involved in this action .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Okmetic has used the furnaces for the contract manufacturing of solar crystals .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "Okmetic"
+  ]
+ },
+ {
+  "sentence":"One price category is for calls on the preferred operator 's network , and another for calls on other operators ' networks .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"OTHER  North-Rhine Westphalia - Is to issue a benchmark , 5 year fixed rate deal in Euros .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "OTH"
+  ]
+ },
+ {
+  "sentence":"Other details were not provided .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Pohjola and cooperative banks have continued to combine their branch office network .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Pohjola"
+  ]
+ },
+ {
+  "sentence":"Price talk is in the mid-market swaps plus 105 bps area and the leads are Barclays , BNPP , UBS and CBA .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Barclays",
+   "BNPP",
+   "UBS",
+   "CBA"
+  ]
+ },
+ {
+  "sentence":"Prior to the transaction , whose financial terms have not been disclosed , Alma Media owned 40 % of Kotikokki net .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Alma Media",
+   "Kotikokki"
+  ]
+ },
+ {
+  "sentence":"Purchase it for the 12MP snapper , if nothing else .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"SAMPO PLC Jarmo Salonen Head of Investor Relations and Group Communications tel. +358 10 516 0030 Distribution : NASDAQ OMX Helsinki The principal media Financial Supervisory Authority www.sampo.com This announcement is distributed by Thomson Reuters on behalf of Thomson Reuters clients .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "SAMPO PLC Jarmo Salonen",
+   "Investor Relations",
+   "Group Communications",
+   "NASDA",
+   "OMX Helsinki",
+   "Financial Supervisory Authority",
+   "Thomson Reuters",
+   "Thomson Reuters"
+  ]
+ },
+ {
+  "sentence":"Sanoma Magazines International will invite other shareholders holding approximately 15 % of the shares to sell their shares .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Sanoma Magazines International"
+  ]
+ },
+ {
+  "sentence":"SDM offers general rental equipment , aluminium scaffolding , power generator and hoists to customers in the construction sector .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "SDM"
+  ]
+ },
+ {
+  "sentence":"Subscribers of China Unicom , the nation 's second largest mobile phone operator after China Mobile , are expected to release pictures , videos and blog on the Internet via mobile phones as of March 2008 .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+   "China Unicom",
+   "China Mobile"
+  ]
+ },
+ {
+  "sentence":"Sunrise Resources operates in Russian near-shore development markets through its wholly-owned Russian subsidiary and has 80 % of its personnel in Russia .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Sunrise Resources"
+  ]
+ },
+ {
+  "sentence":"Target company : Tieto Corporation , Business Identity Code : 0101138-5 Date of change in holding : 22 January 2010 Portion of the shares and votes : The current group holding of OP-Pohjola Group Central Cooperative ( OPK ) is 2982 587 shares , which represents 4.14 % of the shares and voting rights .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+   "T",
+   "##ieto Corporation",
+   "OP",
+   "Pohjo",
+   "##la Group Central Cooperative",
+   "OPK"
+  ]
+ },
+ {
+  "sentence":"The company expects to open its first online shop in the US in the summer in 2011 .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The contract will take effect in 2009 for a five or ten year period .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The CVs of the proposed members are available for viewing from 12 March 2008 onwards on the Internet at www.sampo.com\/ir .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The deal includes the entire personnel of PlanMill Oy , who will transfer to the new company as so-called old employees .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "PlanMill Oy"
+  ]
+ },
+ {
+  "sentence":"The divested stake represented about 2.7 m shares in Okmetic 's capital .",
+  "label":"neutral",
+  "events":[
+   "acquisition_merger"
+  ],
+  "money":true,
+  "orgs":[
+   "Okmetic"
+  ]
+ },
+ {
+  "sentence":"The fair value of CapMan Plc 's own investments on 30 September 2008 amounted to MEUR 59.8 .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "CapMan Plc"
+  ]
+ },
+ {
+  "sentence":"The flagship will open this fall in Manhattan 's Flatiron District in the `` Toy Building , '' at 200 Fifth Avenue .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The markets are almost completely controlled by three banks : Nordea , OP Bank Group , and Sampo .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Nordea",
+   "OP Bank Group",
+   "Sampo"
+  ]
+ },
+ {
+  "sentence":"The new name of the Sanoma Division will be Sanoma News .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+   "Sanoma Division",
+   "Sanoma News"
+  ]
+ },
+ {
+  "sentence":"The order is a follow-on to an 11 mln euro ( $ 16.1 mln ) deal made in July 2007 .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The other deal is for process cranes to the Russian steel mill PNTZ in Pervorouralsky through an order placed by Turkish construction company Gama Endustri Tesisleri Imalat ve Montaj AS .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "PNTZ",
+   "Gama Endustri Tesisleri Imalat ve Montaj AS"
+  ]
+ },
+ {
+  "sentence":"The Process Products orders are for the installation of separation-filtration equipment at three natural gas pipeline projects in China , South America , and Saudi Arabia .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Process Products"
+  ]
+ },
+ {
+  "sentence":"The sales price was not disclosed .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The share capital of Basware Corporation is 11,720,829 .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Basware Corporation"
+  ]
+ },
+ {
+  "sentence":"The share sale , to foreign and Finnish investors , is expected to raise some euro300 million ( US$ 380 million ) .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The size of a cider bottle will remain unchanged .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The train is expected to cross the Russian territory in 9 days , reaching the Vostochny port .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The value of the order is EUR 700,000 .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The value of the order is USD 2.3 mn .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The value of the orders is about EUR 25mn .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The volume of investments in the two phases of the project is estimated at USD 300mn ( EUR 215.03 mn ) .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"There did not seem to be enough hours in a day for Pekkarinen .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Two of these contracts are for turntable anode vibrocompactors that will be delivered to Gansu Hualu Aluminum Co Ltd and another unnamed costumer .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+   "G",
+   "##u Hualu Aluminum Co Ltd"
+  ]
+ },
+ {
+  "sentence":"The profit after taxes was EUR 57.7 11.1 million .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"`` The enterprise value of the Fray Bentos pulp mill and Forestal Oriental totals approximately euro1 .6 billion , '' UPM said .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Forestal Oriental",
+   "UPM"
+  ]
+ },
+ {
+  "sentence":"`` The new unit is a major investment in the Finnish media scene .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"ALEXANDRIA , Va. , March 20 -- Patrik Flykt and Timo Alakoski , both of Helsinki , Finland , and Tapio Suihko and Nadarajah Asokan , both of Espoo , Finland , have developed a method of mobility support of Internet-type protocol traffic in a communication system .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Nadarajah Asokan"
+  ]
+ },
+ {
+  "sentence":"ALEXANDRIA , Va. , Nov. 19 -- Erkki Aho , Elimaki , Finland , has developed a method and apparatus in conjunction with a shoe press .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Also , CBA is to issue a benchmark , 10 year fixed rate deal in Euros .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "CBA"
+  ]
+ },
+ {
+  "sentence":"Around 250 of these reductions will be implemented through pension arrangements .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"As part of the transaction , the +\u00e4+\u00f1nekoski paper mill remained in M-real 's ownership and continued Galerie Art production for Sappi under a long-term contract .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "M",
+   "real",
+   "Galerie Art",
+   "Sappi"
+  ]
+ },
+ {
+  "sentence":"By the end of 2006 , the number of joint branch offices will total 170 .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Cameco typically prices sales contracts using a 40:60 ratio of fixed prices and spot prices .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":false,
+  "orgs":[
+   "Cameco"
+  ]
+ },
+ {
+  "sentence":"Fiskars is also engaged in the global supply of marine and energy equipment solutions and services through its associated company , Wartsila Corporation .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "Fiskars",
+   "Wartsila Corporation"
+  ]
+ },
+ {
+  "sentence":"Following the divestment , Fiskars 's Outdoor unit will comprise the brands Gerber , Silva and Buster , and will focus on multi-tools , knives , compasses , mobile lighting , pedometers , and aluminium boats .",
+  "label":"neutral",
+  "events":[
+   "acquisition_merger"
+  ],
+  "money":true,
+  "orgs":[
+   "Fiskars",
+   "Outdoor",
+   "Gerber",
+   "Silva",
+   "Buster"
+  ]
+ },
+ {
+  "sentence":"Following the issue , the number of shares in the Swedish company will grow by 9 % .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"From 2003 on , the emphasis of Kyro 's strategy has been on Glaston 's growth .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "K",
+   "##yro",
+   "Glaston"
+  ]
+ },
+ {
+  "sentence":"GE is building the facility with wind power developer Invenergy Wind LLC .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "GE",
+   "Invenergy Wind LLC"
+  ]
+ },
+ {
+  "sentence":"In the Czech Republic , the profiling unit at Ostrava will be closed and the machinery will be relocated to Ruukki 's bigger plants in Hungary , Poland and Romania by the end of the first quarter of 2009 .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+   "Ru",
+   "##ki"
+  ]
+ },
+ {
+  "sentence":"It includes options for additional 30 communal building sites as well as construction supervision works for all construction sites .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"L&T also acquired a 50 pct stake in local sector company Salvor Oy at the beginning of September 2007 .",
+  "label":"neutral",
+  "events":[
+   "acquisition_merger"
+  ],
+  "money":false,
+  "orgs":[
+   "L & T",
+   "Salvor Oy"
+  ]
+ },
+ {
+  "sentence":"Liquid handling products include electronic and mechanical pipettes , disposable tips as well as pipette maintenance and calibration services for research institutions , healthcare and industrial laboratories .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"On preliminary estimate , the hotel will operate under the brand Novotel .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+   "Nov",
+   "##l"
+  ]
+ },
+ {
+  "sentence":"OP-Pohjola Group 's capital adequacy ratio under the Act on Credit Institutions stood at 12.1 % and Tier 1 ratio at 12.1 % .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "OP",
+   "Pohjola Group"
+  ]
+ },
+ {
+  "sentence":"Our customers include companies in the energy and process industry sectors , in particular .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Scanfil holdings include 100 % of contract electronics manufacturer Scanfil EMS Group .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "Scanfil",
+   "Scanfil EMS Group"
+  ]
+ },
+ {
+  "sentence":"Since the registration of the shares subscribed in a directed share issue , the new number of Panostaja shares and voting rights is 41,733,110 .",
+  "label":"neutral",
+  "events":[
+   "financing_share_issue"
+  ],
+  "money":false,
+  "orgs":[
+   "Panostaja"
+  ]
+ },
+ {
+  "sentence":"That address also happens to house Italian megamart Eataly , meaning that `` Come on , kids , we 're going to the Toy Building ! ''",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The bond , with a maturity of five years , is part of the bank 's domestic bond program .",
+  "label":"neutral",
+  "events":[
+   "financing_share_issue"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The closing of the transaction is scheduled to take place on January 10 , 2008 .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The company also equipped the sculptural complex Rabochy i Kolkhoznitsa A Worker and a Collective Farmer in Moscow with snow melting system .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Rabochy i Kolkhoznitsa A Worker and a Collective Farmer"
+  ]
+ },
+ {
+  "sentence":"The electricity requirement of networks will grow with the new mobile generation .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The manufacture of CPPs will be undertaken at the existing Export Oriented Unit EOU at Wartsila 's factory at Khopoli , near Mumbai .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+   "Export Oriented Unit",
+   "Wartsila"
+  ]
+ },
+ {
+  "sentence":"The net sales of the Power Plants business were EUR 710.3 million in 2005 .",
+  "label":"neutral",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Power Plants"
+  ]
+ },
+ {
+  "sentence":"The operations to be sold include manufacturing units in Finland , France , Poland and Turkey , as well as sales units in Germany and Lithuania .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The tanks will be delivered to a company which is currently building a chemical tank farm in Antwerp , northern Belgium .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The total floor area of the plant expansion is 29,000 square metres .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The value of the deal is estimated at between SEK25m and SEK50m .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The value of the deal was not disclosed .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Under the transaction agreement , Metsaliitto will purchase 24.7 % of Metsa-Botnia 's shares from UPM and 3 % from M-real .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "Metsaliitto",
+   "Metsa - Botnia",
+   "UPM",
+   "M - real"
+  ]
+ },
+ {
+  "sentence":"While the company did not indicate the level of investment in the unit , it said that has purchased the equipment of Nokia Corporation 's mobile phone R&D laboratory in Jyvaeskylae .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Nokia Corporation",
+   "&"
+  ]
+ },
+ {
+  "sentence":"Production levels have been agreed with producers a long time ago , so a fall in consumption will lead to losses .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Return on investment ROI was 4.1 % compared to 43.8 % in the first half of 2008 .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The sale will result in a capital loss of EUR5m for Solidium , which obtained Tikkurila shares in March 2010 .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Solidium",
+   "Tikkurila"
+  ]
+ },
+ {
+  "sentence":"A total of 16.5 mn passenger ship journeys took place in the northern Baltic Sea in 2007 , slightly down from 16.5 mn in 2006 .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"According to CEO Matti Perkonoja of the parent company HKScan , the company 's performance in the first quarter of 2010 has remained clearly below the level of the corresponding period in 2009 .",
+  "label":"negative",
+  "events":[
+   "management_change"
+  ],
+  "money":false,
+  "orgs":[
+   "HKScan"
+  ]
+ },
+ {
+  "sentence":"Rivals say Qualcomm has fewer patents on 3G phones than on earlier versions and should lower its rates .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Qualcomm"
+  ]
+ },
+ {
+  "sentence":"In 2009 , Stora Enso 's net loss was EUR 879.7 million compared to EUR 673.4 million in the previous year .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Stora Enso"
+  ]
+ },
+ {
+  "sentence":"The planned ethanol and energy production plant can operate in correlation with a waste treatment unit or a paper mill .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"EBIT excluding non-recurring items , totalled EUR 67.8 mn , up from EUR 38.1 mn .",
+  "label":"positive",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"All reproduction for further distribution is prohibited .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The iPad application joins the iPhone app as part of Monster 's range of mobile applications for job hunting .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Monster"
+  ]
+ },
+ {
+  "sentence":"Trading code : ELI1V Number of shares : 99,483 Price-share : Gratuitous After the transfer , Elisa holds a total of 10,435,023 own shares .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Elisa"
+  ]
+ },
+ {
+  "sentence":"Among the Scandinavian companies present in St. Petersburg , is also named the Swedish concern NCC , which implements projects in the field of asphalt production , road and housing construction ( project Swedish Krona ) .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "NCC",
+   "Krona"
+  ]
+ },
+ {
+  "sentence":"As a result , 12 people will be made redundant and a total of 67 persons are laid off temporarily .",
+  "label":"negative",
+  "events":[
+   "earnings_result",
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Bovine slaughtering and cutting at the Kuopio facility will be transferred to the Kauhajoki slaughterhouse .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Mr. Kari Stadigh will carry on as Chairman of the Board and Mr. Matti Arteva as Vice-Chairman .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Board"
+  ]
+ },
+ {
+  "sentence":"The first phase of the logistics complex envisages the completion of some 70,000 sq m of logistics premises and the gatehouse building in November 2008 .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Belarus OAO Lidskoe Pivo brewery , based in the Grodno Region , reported a 1.1 % decrease in output to 1.045 million decaliters in January-March 2010 , a representative in the administration of the company told .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "O",
+   "##AO Lidskoe Pivo"
+  ]
+ },
+ {
+  "sentence":"The deal covers Stockmann Auto Oy Ab 's sales and after-sales services concerning Volkswagen and Audi in Helsinki , Espoo and Vantaa .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":false,
+  "orgs":[
+   "Stockmann Auto Oy Ab",
+   "Volkswagen",
+   "Audi",
+   "Espoo"
+  ]
+ },
+ {
+  "sentence":"The employer , together with health personnel , supports quitting and pays part of the cost of nicotine treatments .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"This action follows personnel negotiations concerning Elcoteq SE , Finnish Branch , Elcoteq Finland Oy and Elcoteq Design Center Oy .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Elcoteq SE",
+   "Finnish Branch",
+   "Elcoteq Finland Oy",
+   "Elcoteq Design Center Oy"
+  ]
+ },
+ {
+  "sentence":"Why put up costly cell phone towers in thinly populated areas when a few balloons would do ?",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"And U.S. energy executives say high steel prices are threatening energy exploration .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Copper , lead and nickel also dropped ... HBOS ( HBOS ) plummeted 20 % to 70.3 pence after saying this year+\u00f3 ??",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "HBOS",
+   "HBOS"
+  ]
+ },
+ {
+  "sentence":"Lassila & Tikanoja 's operating profit excluding non-recurring and imputed items for the second quarter was EUR11 .3 m , down from EUR13 .8 m a year ago .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Lassila & Tikanoja"
+  ]
+ },
+ {
+  "sentence":"Many of the commercial vessels had got stuck in the narrow Bay of Bothnia , where the ice is thicker , and around the Aaland islands .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Nordic banks have already had to write off sizable loans in Latvia , with Swedbank , Nordea , DnB NOR and SEB reporting combined losses in excess of $ 1.35 billion in the period 2007 to 2010 against a backdrop of near economic meltdown in Latvia .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Swedbank",
+   "Nordea",
+   "DnB NOR",
+   "SEB"
+  ]
+ },
+ {
+  "sentence":"Agricultural newspaper Maaseudun Tulevaisuus had 318,000 readers , representing a decrease of 6 % .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Maaseudun Tulevaisuus"
+  ]
+ },
+ {
+  "sentence":"At 1411 CET , ArcelorMittal had lost 7.26 % to EUR 17.38 on Euronext Paris , coming at the lead of the blue-chip fallers .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "ArcelorMittal",
+   "Euronext Paris"
+  ]
+ },
+ {
+  "sentence":"Cash flow from operations in January-December 2008 was a negative EUR 18.1 mn compared to EUR 39.0 mn in the corresponding period in 2007 .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"EPS dropped to EUR0 .2 from EUR0 .3 .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"These financing arrangements will enable the company to ensure , in line with its treasury policy , that it has sufficient financial instruments at its disposal for its potential capital requirements .",
+  "label":"positive",
+  "events":[
+   "financing_share_issue"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Creating interfaces that are more similar to interactions in the real world can enable experiences that are more natural and intuitive , in the same way that modern games and movies are more immersive through the use of realistic 3-D graphics .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The 10,000-odd square metre plot that Stockmann has bought for the Nevsky Center shopping center is located on Nevsky Prospect , St Petersburg 's high street , next to the Vosstaniya Square underground station , in the immediate vicinity of Moscow Station .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "##mann"
+  ]
+ },
+ {
+  "sentence":"He wore a black beanie-type cap and a black jacket .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"The Baltimore Police and Fire Pension , which has about $ 1.5 billion , lost about $ 3.5 million in Madoff Ponzi scheme .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Baltimore Police and Fire Pension",
+   "Madoff Ponz"
+  ]
+ },
+ {
+  "sentence":"`` Small firms are suffering at the moment because they are likely to have money trouble , '' he added .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Below are unaudited consolidated results for Aspocomp Group under IFRS reporting standards .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+   "Aspocomp Group"
+  ]
+ },
+ {
+  "sentence":"At 12.01 pm , the OMX Helsinki 25 was down 0.66 pct to 3,143.57 and the OMX Helsinki was 0.67 pct lower at 10,530.74 on 253 mln eur turnover .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "OMX Helsinki",
+   "OMX Helsinki"
+  ]
+ },
+ {
+  "sentence":"Elcoteq SE is Europe 's largest contract electronics maker and has set up a unit in Bangalore in association with Avista Advisory of Mumbai .",
+  "label":"neutral",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "Elcoteq SE",
+   "Avista Advisory of"
+  ]
+ },
+ {
+  "sentence":"The OMX Helsinki 25 ended 0.47 pct lower at 3,150.55 and the OMX Helsinki was down 0.21 pct at 10,736.42 on 1.523 bln eur turnover .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "OMX Helsinki",
+   "OMX Helsinki"
+  ]
+ },
+ {
+  "sentence":"The podcast , sees Harple provide the low-down on GyPSii 's platform , which takes someone 's location and demographic information to produce a contextual index of the world around them .",
+  "label":"neutral",
+  "events":[
+   "guidance"
+  ],
+  "money":true,
+  "orgs":[
+   "G",
+   "##yPSii"
+  ]
+ },
+ {
+  "sentence":"At the close , the OMX Helsinki 25 was 0.01 pct lower at 3,067.64 points and the OMX Helsinki was down 0.05 pct at 10,321.46 points on over 1.343 bln eur of turnover .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "OMX Helsinki",
+   "OMX Helsinki"
+  ]
+ },
+ {
+  "sentence":"However , two of the previously ordered sets will start producing electricity at the end of October 2010 , it said .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Operating profit for 2009 lower than outlook published earlier .",
+  "label":"negative",
+  "events":[
+   "guidance"
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Finnish Kemira 's net sales EUR decreased to EUR 1,259.6 mn in January-June 2009 from EUR 1,425.1 mn in January-June 2008 .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Kemira"
+  ]
+ },
+ {
+  "sentence":"Finnish Scanfil , a systems supplier and contract manufacturer to the communications sector and the electronics industry , reports net sales of EUR 49.6 mn in the first quarter of 2009 , which are only a per cent smaller than in the corresponding period in 2008 .",
+  "label":"negative",
+  "events":[
+   "earnings_result",
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "Scanfil"
+  ]
+ },
+ {
+  "sentence":"( ADP News ) - Feb 12 , 2009 - Finnish construction company Lemminkainen Oyj ( HEL : LEM1S ) said today its net profit decreased to EUR 63.5 million ( USD 81.1 m ) for 2008 from EUR 80.6 million for 2007 .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "ADP News",
+   "Lemminkainen Oyj",
+   "L"
+  ]
+ },
+ {
+  "sentence":"Operating profit fell from EUR 7.9 mn in the second quarter of 2005 to EUR 5.1 mn in the second quarter of 2006 .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Operating profit fell to EUR 6.2 mn from EUR 8.5 mn in the third quarter of 2007 .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Pretax profit decreased by 37 % to EUR 193.1 mn from EUR 305.6 mn .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+   "Pretax"
+  ]
+ },
+ {
+  "sentence":"The Group 's order portfolio decreased from EUR 42.9 mn in 9-2007 to EUR 33.3 mn in 2-2008 .",
+  "label":"negative",
+  "events":[
+   "contract_order"
+  ],
+  "money":true,
+  "orgs":[
+   "Group"
+  ]
+ },
+ {
+  "sentence":"However , the company saw its net profit for the third quarter down to EUR 1.4 million from EUR 1.5 million for the corresponding period of 2009 .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"However , the company saw its net profit for the third quarter down to EUR1 .4 m from EUR1 .5 m for the corresponding period of 2009 .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"However , the net sales declined to EUR 803.6 million from EUR 1.2 billion .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Operating profit totaled EUR 3.8 mn , down from EUR 4.5 mn in the corresponding period in 2005 .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Changes in the market situation and tougher price competition have substantially reduced demand for bread packaging manufactured at the Kauhava plant , according to the company .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Operating margin , however , slipped to 14.4 % from 15.1 % , dragged down by a poor performance in enterprise solutions .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"It holds 38 percent of Outokumpu 's shares and voting rights , but in 2001 lawmakers gave it permission to reduce the stake to 10 percent .",
+  "label":"neutral",
+  "events":[
+
+  ],
+  "money":true,
+  "orgs":[
+   "Outokumpu"
+  ]
+ },
+ {
+  "sentence":"LONDON MarketWatch -- Share prices ended lower in London Monday as a rebound in bank stocks failed to offset broader weakness for the FTSE 100 .",
+  "label":"negative",
+  "events":[
+
+  ],
+  "money":false,
+  "orgs":[
+
+  ]
+ },
+ {
+  "sentence":"Sales in Finland decreased by 10.5 % in January , while sales outside Finland dropped by 17 % .",
+  "label":"negative",
+  "events":[
+   "earnings_result"
+  ],
+  "money":true,
+  "orgs":[
+
+  ]
+ }
+]

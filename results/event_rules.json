@@ -1,0 +1,46 @@
+{
+  "n_test": 345,
+  "event_counts": {
+    "earnings_result": 82,
+    "guidance": 35,
+    "acquisition_merger": 10,
+    "contract_order": 45,
+    "management_change": 6,
+    "financing_share_issue": 7
+  },
+  "sentences_with_any_event": 171,
+  "sentences_with_multiple_events": 14,
+  "sentences_with_money_or_percent": 183,
+  "ner_model": "dslim/bert-base-NER",
+  "entity_counts": {
+    "ORG": 380,
+    "MISC": 230,
+    "LOC": 150,
+    "PER": 53
+  },
+  "sentences_with_org": 189,
+  "events_by_sentiment_label": {
+    "negative": {
+      "earnings_result": 19,
+      "contract_order": 3,
+      "management_change": 1,
+      "guidance": 2
+    },
+    "neutral": {
+      "contract_order": 32,
+      "earnings_result": 14,
+      "management_change": 3,
+      "guidance": 25,
+      "acquisition_merger": 5,
+      "financing_share_issue": 5
+    },
+    "positive": {
+      "earnings_result": 49,
+      "guidance": 8,
+      "acquisition_merger": 5,
+      "contract_order": 10,
+      "management_change": 2,
+      "financing_share_issue": 2
+    }
+  }
+}
