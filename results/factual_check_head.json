@@ -1,0 +1,3627 @@
+{
+ "summary": {
+  "n_docs": 495,
+  "docs_with_unsupported_number": 378,
+  "share_docs": 0.764,
+  "numbers_total": 1626,
+  "numbers_unsupported": 762,
+  "share_numbers": 0.469
+ },
+ "per_doc": [
+  {
+   "doc": "AAN_q3_2021.txt",
+   "n_numbers": 1,
+   "unsupported": []
+  },
+  {
+   "doc": "AAN_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "AAP_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "AAT_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.9",
+    "2.8"
+   ]
+  },
+  {
+   "doc": "AAT_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "AA_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "ABM_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.45",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "ACC_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "ADC_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.72",
+    "1.72",
+    "2.1",
+    "3.2"
+   ]
+  },
+  {
+   "doc": "ADM_q1_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "1039.1",
+    "2.39",
+    "2038.2",
+    "3.9"
+   ]
+  },
+  {
+   "doc": "AEL_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.24",
+    "5.5"
+   ]
+  },
+  {
+   "doc": "AFL_q4_2020.txt",
+   "n_numbers": 1,
+   "unsupported": [
+    "0.72"
+   ]
+  },
+  {
+   "doc": "AIR_q1_2022.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "454.3"
+   ]
+  },
+  {
+   "doc": "AIT_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.87",
+    "1.87"
+   ]
+  },
+  {
+   "doc": "AJG_q3_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.5",
+    "3.8"
+   ]
+  },
+  {
+   "doc": "ALB_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "835"
+   ]
+  },
+  {
+   "doc": "ALB_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "ALE_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "67.6"
+   ]
+  },
+  {
+   "doc": "ALG_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "348.3"
+   ]
+  },
+  {
+   "doc": "ALL_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "AME_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "AMG_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "3058.8",
+    "403"
+   ]
+  },
+  {
+   "doc": "AMG_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.59"
+   ]
+  },
+  {
+   "doc": "AMG_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "1.1"
+   ]
+  },
+  {
+   "doc": "AON_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.9",
+    "2.05"
+   ]
+  },
+  {
+   "doc": "APH_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.65",
+    "2.8"
+   ]
+  },
+  {
+   "doc": "APH_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "3"
+   ]
+  },
+  {
+   "doc": "ARI_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.49"
+   ]
+  },
+  {
+   "doc": "ARI_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.49",
+    "2.6"
+   ]
+  },
+  {
+   "doc": "ARW_q3_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "ATI_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "ATR_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "ATR_q2_2021.txt",
+   "n_numbers": 9,
+   "unsupported": [
+    "0.19",
+    "1.6",
+    "12",
+    "2.21",
+    "3.5",
+    "4.7"
+   ]
+  },
+  {
+   "doc": "AVD_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "AVD_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.84",
+    "105.7"
+   ]
+  },
+  {
+   "doc": "AVD_q4_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "141.4"
+   ]
+  },
+  {
+   "doc": "AWR_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.33",
+    "2.2"
+   ]
+  },
+  {
+   "doc": "AXL_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "AXL_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "AZZ_q1_2022.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "A_q4_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "5.33",
+    "7.5"
+   ]
+  },
+  {
+   "doc": "BAH_q2_2022.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "BAH_q3_2022.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "BBY_q3_2022.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "BCO_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "BCO_q2_2021.txt",
+   "n_numbers": 7,
+   "unsupported": [
+    "118",
+    "2.3",
+    "230",
+    "26"
+   ]
+  },
+  {
+   "doc": "BCO_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "BDN_q1_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "BDN_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "BGS_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "1073"
+   ]
+  },
+  {
+   "doc": "BGS_q4_2020.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "362.8"
+   ]
+  },
+  {
+   "doc": "BHE_q3_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.32",
+    "526.4"
+   ]
+  },
+  {
+   "doc": "BIO_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.32"
+   ]
+  },
+  {
+   "doc": "BIO_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.82",
+    "1.8",
+    "747.3"
+   ]
+  },
+  {
+   "doc": "BKD_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.59"
+   ]
+  },
+  {
+   "doc": "BKH_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.59"
+   ]
+  },
+  {
+   "doc": "BKH_q3_2020.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "BKH_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.35",
+    "1.35"
+   ]
+  },
+  {
+   "doc": "BKU_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "BMI_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "BMI_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "127.6"
+   ]
+  },
+  {
+   "doc": "BOH_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.89",
+    "1.9"
+   ]
+  },
+  {
+   "doc": "BR_q1_2022.txt",
+   "n_numbers": 4,
+   "unsupported": []
+  },
+  {
+   "doc": "BXP_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "14.8"
+   ]
+  },
+  {
+   "doc": "BYD_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.97",
+    "1.98"
+   ]
+  },
+  {
+   "doc": "BZH_q3_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "1.59",
+    "2.6"
+   ]
+  },
+  {
+   "doc": "BZH_q4_2020.txt",
+   "n_numbers": 7,
+   "unsupported": [
+    "0.69",
+    "1.69",
+    "1066.4",
+    "2067.6",
+    "3.5"
+   ]
+  },
+  {
+   "doc": "CAG_q1_2022.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "1.8"
+   ]
+  },
+  {
+   "doc": "CBU_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "CBZ_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "CCI_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.82",
+    "1.82"
+   ]
+  },
+  {
+   "doc": "CFR_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "18.6"
+   ]
+  },
+  {
+   "doc": "CFR_q3_2019.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "25.5"
+   ]
+  },
+  {
+   "doc": "CFR_q3_2020.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "CFR_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "CHD_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "CHE_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.89",
+    "40.7"
+   ]
+  },
+  {
+   "doc": "CHE_q4_2020.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.8",
+    "2.9"
+   ]
+  },
+  {
+   "doc": "CHS_q1_2021.txt",
+   "n_numbers": 10,
+   "unsupported": [
+    "0.066",
+    "0.66",
+    "1.6",
+    "1621.8",
+    "2067.6"
+   ]
+  },
+  {
+   "doc": "CIM_q1_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.74",
+    "1.8",
+    "1821.4"
+   ]
+  },
+  {
+   "doc": "CIM_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "2.6"
+   ]
+  },
+  {
+   "doc": "CIR_q2_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "1.2",
+    "193.4"
+   ]
+  },
+  {
+   "doc": "CIR_q3_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "194.4"
+   ]
+  },
+  {
+   "doc": "CLH_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "CLH_q4_2019.txt",
+   "n_numbers": 8,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "209.5",
+    "3.5",
+    "3000",
+    "4.5",
+    "4000"
+   ]
+  },
+  {
+   "doc": "CLW_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.54",
+    "426.4"
+   ]
+  },
+  {
+   "doc": "CLW_q3_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "457.5"
+   ]
+  },
+  {
+   "doc": "CLX_q1_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2021",
+    "4.5"
+   ]
+  },
+  {
+   "doc": "CLX_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "9.25"
+   ]
+  },
+  {
+   "doc": "CMA_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "CMC_q1_2022.txt",
+   "n_numbers": 4,
+   "unsupported": []
+  },
+  {
+   "doc": "CNA_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.24",
+    "1.24"
+   ]
+  },
+  {
+   "doc": "CNA_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "CNC_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "33.6"
+   ]
+  },
+  {
+   "doc": "COF_q4_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.35"
+   ]
+  },
+  {
+   "doc": "COO_q1_2021.txt",
+   "n_numbers": 8,
+   "unsupported": [
+    "2.6",
+    "4.5",
+    "4000",
+    "681.3"
+   ]
+  },
+  {
+   "doc": "CPB_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "CPB_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "CPF_q1_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.74",
+    "63.6"
+   ]
+  },
+  {
+   "doc": "CPF_q4_2019.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "371.1"
+   ]
+  },
+  {
+   "doc": "CPF_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "CPK_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "CRK_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "56"
+   ]
+  },
+  {
+   "doc": "CRK_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "CRS_q2_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.66",
+    "1.59",
+    "665.4"
+   ]
+  },
+  {
+   "doc": "CRS_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "540"
+   ]
+  },
+  {
+   "doc": "CSL_q1_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.5"
+   ]
+  },
+  {
+   "doc": "CSV_q3_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.84"
+   ]
+  },
+  {
+   "doc": "CVS_q4_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.98",
+    "292.3"
+   ]
+  },
+  {
+   "doc": "CWT_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "CW_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "2.7",
+    "4.5"
+   ]
+  },
+  {
+   "doc": "DBD_q1_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.19",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "DD_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.6",
+    "1.6",
+    "475"
+   ]
+  },
+  {
+   "doc": "DD_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.45",
+    "1.9",
+    "1065"
+   ]
+  },
+  {
+   "doc": "DE_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "DFS_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.89",
+    "1.05"
+   ]
+  },
+  {
+   "doc": "DHX_q2_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.69",
+    "1.06"
+   ]
+  },
+  {
+   "doc": "DKS_q3_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "1.19",
+    "11.2",
+    "2.1"
+   ]
+  },
+  {
+   "doc": "DKS_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "DLB_q1_2022.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "DLR_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "DLR_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "2.6"
+   ]
+  },
+  {
+   "doc": "DLX_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "441.4"
+   ]
+  },
+  {
+   "doc": "DNB_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.24"
+   ]
+  },
+  {
+   "doc": "DNB_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "225.7"
+   ]
+  },
+  {
+   "doc": "DNB_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "DOV_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "4"
+   ]
+  },
+  {
+   "doc": "DOW_q4_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "4.5"
+   ]
+  },
+  {
+   "doc": "DRE_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.89",
+    "1.8"
+   ]
+  },
+  {
+   "doc": "DRE_q4_2020.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.59"
+   ]
+  },
+  {
+   "doc": "DRH_q3_2020.txt",
+   "n_numbers": 1,
+   "unsupported": []
+  },
+  {
+   "doc": "DRI_q2_2022.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.12",
+    "1.11"
+   ]
+  },
+  {
+   "doc": "DRI_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "108.3",
+    "109.6"
+   ]
+  },
+  {
+   "doc": "DTE_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "4.84"
+   ]
+  },
+  {
+   "doc": "DX_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "3.6"
+   ]
+  },
+  {
+   "doc": "DY_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "810"
+   ]
+  },
+  {
+   "doc": "EAT_q4_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "0.59",
+    "1.59",
+    "2.8",
+    "200"
+   ]
+  },
+  {
+   "doc": "EFX_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.85"
+   ]
+  },
+  {
+   "doc": "EGP_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "EIX_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.69"
+   ]
+  },
+  {
+   "doc": "ELS_q2_2020.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "EME_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": []
+  },
+  {
+   "doc": "ENR_q1_2022.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "EPR_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "EPR_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "EPR_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.5",
+    "2.6"
+   ]
+  },
+  {
+   "doc": "EQR_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "ESE_q1_2021.txt",
+   "n_numbers": 1,
+   "unsupported": []
+  },
+  {
+   "doc": "ESE_q4_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "1.8",
+    "4.5"
+   ]
+  },
+  {
+   "doc": "ES_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.23",
+    "1.6",
+    "2.5"
+   ]
+  },
+  {
+   "doc": "EVR_q1_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.59"
+   ]
+  },
+  {
+   "doc": "EW_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "EW_q2_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "1.04",
+    "2.05",
+    "904"
+   ]
+  },
+  {
+   "doc": "EW_q4_2020.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.9",
+    "2.8"
+   ]
+  },
+  {
+   "doc": "EXP_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.073",
+    "1.8"
+   ]
+  },
+  {
+   "doc": "FAF_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "142"
+   ]
+  },
+  {
+   "doc": "FBP_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "3.6"
+   ]
+  },
+  {
+   "doc": "FDP_q2_2020.txt",
+   "n_numbers": 1,
+   "unsupported": []
+  },
+  {
+   "doc": "FDP_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "FDP_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.1"
+   ]
+  },
+  {
+   "doc": "FDS_q2_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "0.66",
+    "1.59",
+    "5.6"
+   ]
+  },
+  {
+   "doc": "FDX_q2_2022.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.89",
+    "1.89"
+   ]
+  },
+  {
+   "doc": "FET_q3_2020.txt",
+   "n_numbers": 1,
+   "unsupported": [
+    "0.29"
+   ]
+  },
+  {
+   "doc": "FE_q3_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.51"
+   ]
+  },
+  {
+   "doc": "FE_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "FHN_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "FIS_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "11.7"
+   ]
+  },
+  {
+   "doc": "FLS_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "FLT_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "2.7",
+    "667.5"
+   ]
+  },
+  {
+   "doc": "FLT_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.55",
+    "755.4"
+   ]
+  },
+  {
+   "doc": "FL_q1_2021.txt",
+   "n_numbers": 8,
+   "unsupported": [
+    "2.5",
+    "4",
+    "5.5",
+    "8.2",
+    "9.1"
+   ]
+  },
+  {
+   "doc": "FL_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "3.05"
+   ]
+  },
+  {
+   "doc": "FMC_q2_2021.txt",
+   "n_numbers": 7,
+   "unsupported": [
+    "2.8",
+    "3.9",
+    "4.5",
+    "5.3"
+   ]
+  },
+  {
+   "doc": "FNB_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "FNF_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "FNF_q3_2020.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "FN_q2_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "4.5",
+    "454.4",
+    "5.6"
+   ]
+  },
+  {
+   "doc": "FR_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.56",
+    "78.4"
+   ]
+  },
+  {
+   "doc": "FR_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.85",
+    "1.9",
+    "2.8"
+   ]
+  },
+  {
+   "doc": "FR_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.48",
+    "36.2"
+   ]
+  },
+  {
+   "doc": "FSP_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "17.5"
+   ]
+  },
+  {
+   "doc": "FSS_q2_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "282",
+    "336"
+   ]
+  },
+  {
+   "doc": "FUL_q3_2021.txt",
+   "n_numbers": 7,
+   "unsupported": [
+    "1.6",
+    "109",
+    "2.5",
+    "3.7"
+   ]
+  },
+  {
+   "doc": "FUL_q4_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "250"
+   ]
+  },
+  {
+   "doc": "GCI_q1_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "2.9"
+   ]
+  },
+  {
+   "doc": "GCI_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "1.1"
+   ]
+  },
+  {
+   "doc": "GCO_q1_2022.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "1.6"
+   ]
+  },
+  {
+   "doc": "GCO_q4_2022.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "GD_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "GEF_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "2.93",
+    "238.4"
+   ]
+  },
+  {
+   "doc": "GEO_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "578.9"
+   ]
+  },
+  {
+   "doc": "GES_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "GES_q2_2022.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.89"
+   ]
+  },
+  {
+   "doc": "GFF_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "GHL_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "GHL_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "GHM_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "15.8"
+   ]
+  },
+  {
+   "doc": "GHM_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "28.9",
+    "29.4"
+   ]
+  },
+  {
+   "doc": "GHM_q2_2022.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "30.9"
+   ]
+  },
+  {
+   "doc": "GLT_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "8.6"
+   ]
+  },
+  {
+   "doc": "GLW_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "GLW_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "3.3"
+   ]
+  },
+  {
+   "doc": "GLW_q4_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "13.5",
+    "4.8"
+   ]
+  },
+  {
+   "doc": "GL_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "728.7"
+   ]
+  },
+  {
+   "doc": "GME_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "GME_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "3.19"
+   ]
+  },
+  {
+   "doc": "GNE_q1_2021.txt",
+   "n_numbers": 10,
+   "unsupported": [
+    "0.066",
+    "0.91",
+    "0067.9",
+    "1.93",
+    "1065.8",
+    "2068.4",
+    "4",
+    "5.5"
+   ]
+  },
+  {
+   "doc": "GNE_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.82",
+    "1.06",
+    "2.07"
+   ]
+  },
+  {
+   "doc": "GNW_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.02"
+   ]
+  },
+  {
+   "doc": "GPN_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "HBI_q2_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.5"
+   ]
+  },
+  {
+   "doc": "HCC_q1_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "HCC_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.62",
+    "1.62"
+   ]
+  },
+  {
+   "doc": "HD_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "HEI_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "HES_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "2.8"
+   ]
+  },
+  {
+   "doc": "HE_q1_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "HE_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "HE_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "HE_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "HE_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "196.9"
+   ]
+  },
+  {
+   "doc": "HIG_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "HII_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.6"
+   ]
+  },
+  {
+   "doc": "HIW_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "683.3"
+   ]
+  },
+  {
+   "doc": "HLT_q4_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "1.59",
+    "58"
+   ]
+  },
+  {
+   "doc": "HL_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.48",
+    "807.4"
+   ]
+  },
+  {
+   "doc": "HPE_q3_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "5.8"
+   ]
+  },
+  {
+   "doc": "HPP_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "HRB_q1_2022.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.7",
+    "3.5",
+    "4"
+   ]
+  },
+  {
+   "doc": "HRB_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.6",
+    "2.5"
+   ]
+  },
+  {
+   "doc": "HRB_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.46",
+    "1.46"
+   ]
+  },
+  {
+   "doc": "HRL_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.13",
+    "2.6"
+   ]
+  },
+  {
+   "doc": "HRL_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.59"
+   ]
+  },
+  {
+   "doc": "HRL_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "HR_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.69",
+    "1.59"
+   ]
+  },
+  {
+   "doc": "HTH_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "115"
+   ]
+  },
+  {
+   "doc": "HVT_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.56",
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "HXL_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "310.4"
+   ]
+  },
+  {
+   "doc": "HXL_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.6"
+   ]
+  },
+  {
+   "doc": "HZO_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "2.6"
+   ]
+  },
+  {
+   "doc": "H_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "125"
+   ]
+  },
+  {
+   "doc": "IDT_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "IGT_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.65"
+   ]
+  },
+  {
+   "doc": "INT_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "IPI_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.89",
+    "1.89"
+   ]
+  },
+  {
+   "doc": "IQV_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "IRM_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "IR_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "ITT_q1_2021.txt",
+   "n_numbers": 4,
+   "unsupported": []
+  },
+  {
+   "doc": "ITT_q2_2021.txt",
+   "n_numbers": 7,
+   "unsupported": [
+    "4",
+    "4000",
+    "692.5",
+    "693.7"
+   ]
+  },
+  {
+   "doc": "ITW_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.8",
+    "245"
+   ]
+  },
+  {
+   "doc": "ITW_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "IVC_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "6.6",
+    "8.9"
+   ]
+  },
+  {
+   "doc": "IVZ_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "31.5"
+   ]
+  },
+  {
+   "doc": "JBL_q1_2022.txt",
+   "n_numbers": 5,
+   "unsupported": []
+  },
+  {
+   "doc": "JBL_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.2",
+    "28.2"
+   ]
+  },
+  {
+   "doc": "JCI_q3_2021.txt",
+   "n_numbers": 8,
+   "unsupported": [
+    "0.49",
+    "1.51",
+    "2.8",
+    "3.5",
+    "4.6",
+    "6.6"
+   ]
+  },
+  {
+   "doc": "JLL_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.66"
+   ]
+  },
+  {
+   "doc": "KAI_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "KAR_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "KAR_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "1.05",
+    "585.5"
+   ]
+  },
+  {
+   "doc": "KAR_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.05",
+    "5.1",
+    "535.3"
+   ]
+  },
+  {
+   "doc": "KBH_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "147"
+   ]
+  },
+  {
+   "doc": "KBR_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "KEY_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "13.3"
+   ]
+  },
+  {
+   "doc": "KFY_q2_2022.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1066.8"
+   ]
+  },
+  {
+   "doc": "KMB_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "3.8"
+   ]
+  },
+  {
+   "doc": "KMT_q1_2022.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.8"
+   ]
+  },
+  {
+   "doc": "KMT_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "190"
+   ]
+  },
+  {
+   "doc": "KOP_q4_2020.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "167"
+   ]
+  },
+  {
+   "doc": "KRC_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.39"
+   ]
+  },
+  {
+   "doc": "KSS_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "5.33"
+   ]
+  },
+  {
+   "doc": "KWR_q1_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.59"
+   ]
+  },
+  {
+   "doc": "KWR_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.82"
+   ]
+  },
+  {
+   "doc": "KW_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "743"
+   ]
+  },
+  {
+   "doc": "LAZ_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "1.9"
+   ]
+  },
+  {
+   "doc": "LEA_q3_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.51",
+    "3.6"
+   ]
+  },
+  {
+   "doc": "LHX_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "2.8"
+   ]
+  },
+  {
+   "doc": "LH_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "LIN_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.69",
+    "1.59"
+   ]
+  },
+  {
+   "doc": "LNG_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "LNN_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "142.1"
+   ]
+  },
+  {
+   "doc": "LPX_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "LRN_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.29",
+    "245"
+   ]
+  },
+  {
+   "doc": "LTC_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.95",
+    "1.9",
+    "1066.9"
+   ]
+  },
+  {
+   "doc": "LXP_q4_2020.txt",
+   "n_numbers": 1,
+   "unsupported": []
+  },
+  {
+   "doc": "LYB_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "4.25"
+   ]
+  },
+  {
+   "doc": "LZB_q1_2022.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "525.6"
+   ]
+  },
+  {
+   "doc": "MAC_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.46",
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "MAN_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "4.2"
+   ]
+  },
+  {
+   "doc": "MBI_q4_2019.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.24"
+   ]
+  },
+  {
+   "doc": "MCK_q3_2022.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "0.59",
+    "1.59",
+    "1066.9",
+    "2.6",
+    "2067.9"
+   ]
+  },
+  {
+   "doc": "MDC_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "2.8"
+   ]
+  },
+  {
+   "doc": "MDC_q2_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.84",
+    "1.8",
+    "2.9"
+   ]
+  },
+  {
+   "doc": "MDT_q2_2022.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "MD_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "473.3"
+   ]
+  },
+  {
+   "doc": "MD_q3_2021.txt",
+   "n_numbers": 7,
+   "unsupported": [
+    "300",
+    "493.5",
+    "494"
+   ]
+  },
+  {
+   "doc": "MFA_q4_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.08"
+   ]
+  },
+  {
+   "doc": "MFA_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "34.6"
+   ]
+  },
+  {
+   "doc": "MG_q1_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.89",
+    "1.9"
+   ]
+  },
+  {
+   "doc": "MKC_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.6"
+   ]
+  },
+  {
+   "doc": "MKC_q4_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.6",
+    "2.8"
+   ]
+  },
+  {
+   "doc": "MMS_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.26",
+    "448"
+   ]
+  },
+  {
+   "doc": "MMS_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "MOH_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "MO_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "2.95",
+    "3.95",
+    "6.6"
+   ]
+  },
+  {
+   "doc": "MRO_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "MSA_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "MSI_q3_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "0.76",
+    "12.5",
+    "3.2"
+   ]
+  },
+  {
+   "doc": "MSM_q3_2021.txt",
+   "n_numbers": 7,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.58",
+    "3.5",
+    "4.7"
+   ]
+  },
+  {
+   "doc": "MSM_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.8"
+   ]
+  },
+  {
+   "doc": "MTN_q4_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.59",
+    "29.5"
+   ]
+  },
+  {
+   "doc": "MYE_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "118.3"
+   ]
+  },
+  {
+   "doc": "MYE_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.56",
+    "1.06",
+    "69.5"
+   ]
+  },
+  {
+   "doc": "NCR_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "NEE_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.42"
+   ]
+  },
+  {
+   "doc": "NEE_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "838"
+   ]
+  },
+  {
+   "doc": "NEE_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "NFG_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "1.75"
+   ]
+  },
+  {
+   "doc": "NFG_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "NHI_q1_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.35",
+    "2.05"
+   ]
+  },
+  {
+   "doc": "NHI_q3_2020.txt",
+   "n_numbers": 4,
+   "unsupported": []
+  },
+  {
+   "doc": "NI_q3_2021.txt",
+   "n_numbers": 1,
+   "unsupported": []
+  },
+  {
+   "doc": "NLY_q2_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.59"
+   ]
+  },
+  {
+   "doc": "NLY_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.3"
+   ]
+  },
+  {
+   "doc": "NNN_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "311.4"
+   ]
+  },
+  {
+   "doc": "NNN_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.72",
+    "267.9"
+   ]
+  },
+  {
+   "doc": "NOW_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "NPO_q2_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "0.57",
+    "1.58",
+    "20.2",
+    "299.9"
+   ]
+  },
+  {
+   "doc": "NR_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "142.3"
+   ]
+  },
+  {
+   "doc": "NWN_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "NWN_q2_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.06"
+   ]
+  },
+  {
+   "doc": "NX_q1_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "17.9"
+   ]
+  },
+  {
+   "doc": "NX_q4_2020.txt",
+   "n_numbers": 4,
+   "unsupported": []
+  },
+  {
+   "doc": "NYT_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.93",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "OCN_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.05",
+    "1.05",
+    "2.07"
+   ]
+  },
+  {
+   "doc": "OCN_q4_2020.txt",
+   "n_numbers": 1,
+   "unsupported": [
+    "0.66"
+   ]
+  },
+  {
+   "doc": "OC_q1_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "2.6",
+    "3.8",
+    "4.7"
+   ]
+  },
+  {
+   "doc": "OC_q2_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "2.7"
+   ]
+  },
+  {
+   "doc": "OFC_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "OFG_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "125"
+   ]
+  },
+  {
+   "doc": "OGE_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "2.8"
+   ]
+  },
+  {
+   "doc": "OHI_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "124.8"
+   ]
+  },
+  {
+   "doc": "OIS_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "141.4"
+   ]
+  },
+  {
+   "doc": "OKE_q1_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.35",
+    "2.35",
+    "3.45"
+   ]
+  },
+  {
+   "doc": "OKE_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "802.5"
+   ]
+  },
+  {
+   "doc": "OMI_q4_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.61",
+    "1066.8"
+   ]
+  },
+  {
+   "doc": "ORA_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "146"
+   ]
+  },
+  {
+   "doc": "ORI_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "2.59"
+   ]
+  },
+  {
+   "doc": "OSK_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1945"
+   ]
+  },
+  {
+   "doc": "OXM_q2_2021.txt",
+   "n_numbers": 7,
+   "unsupported": [
+    "0.57",
+    "1.6",
+    "2.5",
+    "3.8"
+   ]
+  },
+  {
+   "doc": "PBH_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "230.5"
+   ]
+  },
+  {
+   "doc": "PBH_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.21",
+    "238.2"
+   ]
+  },
+  {
+   "doc": "PBH_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "238"
+   ]
+  },
+  {
+   "doc": "PBI_q1_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.9",
+    "2.5"
+   ]
+  },
+  {
+   "doc": "PCG_q3_2021.txt",
+   "n_numbers": 1,
+   "unsupported": []
+  },
+  {
+   "doc": "PFS_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "PFS_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "515"
+   ]
+  },
+  {
+   "doc": "PG_q1_2022.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "2.61"
+   ]
+  },
+  {
+   "doc": "PH_q2_2022.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.74",
+    "074",
+    "1.72",
+    "699"
+   ]
+  },
+  {
+   "doc": "PKG_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "PKG_q4_2020.txt",
+   "n_numbers": 4,
+   "unsupported": []
+  },
+  {
+   "doc": "PLD_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "PMT_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "PNW_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.86",
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "PNW_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.89",
+    "1.89",
+    "1891.7"
+   ]
+  },
+  {
+   "doc": "PNW_q4_2019.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.68",
+    "1.8",
+    "1066.8"
+   ]
+  },
+  {
+   "doc": "POR_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "245"
+   ]
+  },
+  {
+   "doc": "PPL_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.69",
+    "1.69"
+   ]
+  },
+  {
+   "doc": "PPL_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "1.6"
+   ]
+  },
+  {
+   "doc": "PRI_q2_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "654.5"
+   ]
+  },
+  {
+   "doc": "PRI_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": []
+  },
+  {
+   "doc": "PRO_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "PSX_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "1.94"
+   ]
+  },
+  {
+   "doc": "PXD_q2_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "1.2",
+    "2.2",
+    "4.5"
+   ]
+  },
+  {
+   "doc": "RES_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "223.6"
+   ]
+  },
+  {
+   "doc": "REX_q4_2019.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "REX_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "RE_q1_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.06",
+    "1.07"
+   ]
+  },
+  {
+   "doc": "RF_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.74",
+    "1.74"
+   ]
+  },
+  {
+   "doc": "RF_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "RGR_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "190.3"
+   ]
+  },
+  {
+   "doc": "RKT_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "RMD_q2_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "2.5",
+    "4.5"
+   ]
+  },
+  {
+   "doc": "RMD_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "RMD_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "RM_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "231.7"
+   ]
+  },
+  {
+   "doc": "RM_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "13.1"
+   ]
+  },
+  {
+   "doc": "ROG_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "3.8"
+   ]
+  },
+  {
+   "doc": "RPM_q3_2022.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "2.43"
+   ]
+  },
+  {
+   "doc": "RPT_q1_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "1.59",
+    "151.9"
+   ]
+  },
+  {
+   "doc": "RWT_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "8.93"
+   ]
+  },
+  {
+   "doc": "R_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "SAM_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "1.58",
+    "2.07"
+   ]
+  },
+  {
+   "doc": "SCI_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "49.4"
+   ]
+  },
+  {
+   "doc": "SCL_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "371.4"
+   ]
+  },
+  {
+   "doc": "SCL_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "384.6"
+   ]
+  },
+  {
+   "doc": "SCL_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "132.9",
+    "133.7"
+   ]
+  },
+  {
+   "doc": "SEM_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "522"
+   ]
+  },
+  {
+   "doc": "SEM_q4_2019.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.63",
+    "2.05"
+   ]
+  },
+  {
+   "doc": "SEM_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.56",
+    "2.08"
+   ]
+  },
+  {
+   "doc": "SF_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "2.8"
+   ]
+  },
+  {
+   "doc": "SF_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "SHW_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": []
+  },
+  {
+   "doc": "SIG_q1_2022.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "SJI_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.96",
+    "1.06"
+   ]
+  },
+  {
+   "doc": "SKT_q1_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "SKX_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "SMG_q3_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.59",
+    "4.2",
+    "4000"
+   ]
+  },
+  {
+   "doc": "SNV_q1_2020.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "SPG_q1_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.48",
+    "975"
+   ]
+  },
+  {
+   "doc": "SPR_q1_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "0.23",
+    "1.9",
+    "2.8"
+   ]
+  },
+  {
+   "doc": "SPR_q2_2021.txt",
+   "n_numbers": 7,
+   "unsupported": [
+    "0.23",
+    "1.9",
+    "1065",
+    "2.5"
+   ]
+  },
+  {
+   "doc": "SSD_q1_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "SSD_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "410"
+   ]
+  },
+  {
+   "doc": "STE_q2_2022.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "220.3"
+   ]
+  },
+  {
+   "doc": "SUI_q2_2021.txt",
+   "n_numbers": 5,
+   "unsupported": []
+  },
+  {
+   "doc": "SWI_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "184.4"
+   ]
+  },
+  {
+   "doc": "SWN_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.69",
+    "1.69",
+    "1065000"
+   ]
+  },
+  {
+   "doc": "SXC_q1_2021.txt",
+   "n_numbers": 4,
+   "unsupported": []
+  },
+  {
+   "doc": "SXI_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.82"
+   ]
+  },
+  {
+   "doc": "SXI_q1_2022.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.89",
+    "1.89"
+   ]
+  },
+  {
+   "doc": "SXI_q2_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "0.56",
+    "173.3",
+    "174.1"
+   ]
+  },
+  {
+   "doc": "SXT_q2_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.05",
+    "4.5",
+    "8.7"
+   ]
+  },
+  {
+   "doc": "SYF_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "SYK_q3_2021.txt",
+   "n_numbers": 7,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "1065.4",
+    "8.6"
+   ]
+  },
+  {
+   "doc": "SYY_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "S_q3_2022.txt",
+   "n_numbers": 7,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.5",
+    "3.7",
+    "59"
+   ]
+  },
+  {
+   "doc": "S_q4_2022.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "TAL_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "1.362"
+   ]
+  },
+  {
+   "doc": "TAP_q1_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "TBI_q4_2020.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.5",
+    "3.7"
+   ]
+  },
+  {
+   "doc": "TDC_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "148.7"
+   ]
+  },
+  {
+   "doc": "TDG_q1_2022.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.59",
+    "5.9"
+   ]
+  },
+  {
+   "doc": "TDY_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "2.9"
+   ]
+  },
+  {
+   "doc": "TDY_q4_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "TEL_q3_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "0.79",
+    "4.7",
+    "5.5",
+    "6"
+   ]
+  },
+  {
+   "doc": "TEX_q3_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.43",
+    "1.8",
+    "2.7",
+    "3.6"
+   ]
+  },
+  {
+   "doc": "TFX_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "TK_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.6"
+   ]
+  },
+  {
+   "doc": "TK_q4_2019.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "325"
+   ]
+  },
+  {
+   "doc": "TK_q4_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "8.1"
+   ]
+  },
+  {
+   "doc": "TNC_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.59",
+    "1.59"
+   ]
+  },
+  {
+   "doc": "TRV_q3_2021.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "TRV_q4_2020.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "TSN_q3_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "0.74",
+    "2.5",
+    "3.6",
+    "74"
+   ]
+  },
+  {
+   "doc": "TT_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "TT_q3_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.3",
+    "0.59",
+    "1.3",
+    "1.58",
+    "2.6"
+   ]
+  },
+  {
+   "doc": "TUP_q4_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "4.5",
+    "5.8"
+   ]
+  },
+  {
+   "doc": "TXT_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "3.8"
+   ]
+  },
+  {
+   "doc": "TXT_q4_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "T_q4_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.23"
+   ]
+  },
+  {
+   "doc": "UFI_q1_2022.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "UHS_q2_2021.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "0.89",
+    "1.89"
+   ]
+  },
+  {
+   "doc": "UNM_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "UNP_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "2.1",
+    "3.2"
+   ]
+  },
+  {
+   "doc": "URI_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.69",
+    "1.59"
+   ]
+  },
+  {
+   "doc": "USM_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.59",
+    "2.6"
+   ]
+  },
+  {
+   "doc": "USM_q3_2020.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.66",
+    "1.59",
+    "3.6"
+   ]
+  },
+  {
+   "doc": "UVE_q1_2020.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "UVE_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "UVE_q4_2020.txt",
+   "n_numbers": 1,
+   "unsupported": []
+  },
+  {
+   "doc": "VFC_q1_2022.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "VGR_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "2.28"
+   ]
+  },
+  {
+   "doc": "VLO_q3_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "113",
+    "91.8",
+    "91.9"
+   ]
+  },
+  {
+   "doc": "VMI_q1_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.74",
+    "1.8",
+    "775.7"
+   ]
+  },
+  {
+   "doc": "VSH_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "VSH_q4_2019.txt",
+   "n_numbers": 2,
+   "unsupported": []
+  },
+  {
+   "doc": "VTR_q1_2021.txt",
+   "n_numbers": 1,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "VTR_q3_2020.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "1.75"
+   ]
+  },
+  {
+   "doc": "WAL_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "94.7"
+   ]
+  },
+  {
+   "doc": "WAL_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "505.6"
+   ]
+  },
+  {
+   "doc": "WAT_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1.6"
+   ]
+  },
+  {
+   "doc": "WBS_q1_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "476.4"
+   ]
+  },
+  {
+   "doc": "WCC_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.69",
+    "1.6"
+   ]
+  },
+  {
+   "doc": "WCC_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.69",
+    "1.8",
+    "2.05"
+   ]
+  },
+  {
+   "doc": "WEC_q4_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "1.8",
+    "1821.2",
+    "3.07"
+   ]
+  },
+  {
+   "doc": "WHR_q1_2021.txt",
+   "n_numbers": 8,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "12.5"
+   ]
+  },
+  {
+   "doc": "WMS_q1_2022.txt",
+   "n_numbers": 2,
+   "unsupported": [
+    "669.4"
+   ]
+  },
+  {
+   "doc": "WOR_q2_2022.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "WRE_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "WSO_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "WSR_q3_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "30.3",
+    "31.6"
+   ]
+  },
+  {
+   "doc": "WST_q1_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.69",
+    "1.7"
+   ]
+  },
+  {
+   "doc": "WST_q3_2020.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "1066.9",
+    "2067.9"
+   ]
+  },
+  {
+   "doc": "WTS_q2_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.23",
+    "1.6",
+    "2.5",
+    "3.8"
+   ]
+  },
+  {
+   "doc": "WU_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "266.3"
+   ]
+  },
+  {
+   "doc": "WWE_q1_2021.txt",
+   "n_numbers": 4,
+   "unsupported": [
+    "0.59",
+    "1.59",
+    "2.6"
+   ]
+  },
+  {
+   "doc": "WWE_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.5"
+   ]
+  },
+  {
+   "doc": "WWW_q3_2021.txt",
+   "n_numbers": 3,
+   "unsupported": []
+  },
+  {
+   "doc": "WY_q2_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "1621.4",
+    "2.06"
+   ]
+  },
+  {
+   "doc": "XYL_q2_2020.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59"
+   ]
+  },
+  {
+   "doc": "ZBH_q1_2021.txt",
+   "n_numbers": 3,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "2.7"
+   ]
+  },
+  {
+   "doc": "ZBH_q2_2021.txt",
+   "n_numbers": 5,
+   "unsupported": [
+    "1.03",
+    "2.03",
+    "2027"
+   ]
+  },
+  {
+   "doc": "ZTS_q4_2021.txt",
+   "n_numbers": 6,
+   "unsupported": [
+    "0.59",
+    "1.6",
+    "8.7",
+    "9.5"
+   ]
+  }
+ ]
+}

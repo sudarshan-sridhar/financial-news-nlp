@@ -4,3 +4,4 @@
 | 2026-11-22 | Fine-tune FinBERT on the seed-42 PhraseBank split |
 | 2026-11-22 | Fine-tune BART-base on ECTSum with head truncation |
 | 2026-11-23 | Add rule-based financial event tagger and NER coverage on the PhraseBank test split |
+| 2026-11-25 | Add normalised number-support check for generated summaries |

@@ -51,9 +51,9 @@ ROUGE F1 x 100 with stemming. BERTScore F1 uses roberta-large without rescaling.
 |---|---|---|---|---|---|---|
 | Lead-4 | 9.36 | 1.6 | 6.57 | - | - | - |
 | TF-IDF top-4 sentences | 7.98 | 0.62 | 5.51 | - | - | - |
-| BART-base, head truncation, 2 epochs | 32.09 | 17.77 | 28.15 | 0.8698 | 21.5 | - |
+| BART-base, head truncation, 2 epochs | 32.09 | 17.77 | 28.15 | 0.8698 | 21.5 | 76% |
 
-> **Finding.** Fine-tuned BART-base more than triples every ROUGE score of the best extractive baseline. Whether those summaries are *factually* right is the next question (see the factual check below once it lands).
+> **Finding.** Fine-tuned BART more than triples the extractive ROUGE, but 76% of its summaries contain a number that is not in the transcript. The model learned the ECTSum reference template ("... versus refinitiv ibes estimate of ...") and fills it with invented figures.
 
 ## Sentiment results (Financial PhraseBank test, 345 sentences)
 
@@ -91,6 +91,7 @@ src/
   fpb_finbert.py             FinBERT released-head evaluation and fine-tuning
   ectsum_bart.py             BART-base fine-tuning with head truncation, ROUGE + BERTScore
   event_rules.py             rule-based event tagger + NER coverage
+  factual_check.py           normalised number-support check of summaries against transcripts
 results/                     one JSON (and prediction file) per experiment; every number above comes from here
 tools/build_readme.py        regenerates this README from results/
 ```
@@ -107,6 +108,7 @@ python src/ectsum_stats_baseline.py data/ectsum/ECTSum/data/final results
 python src/fpb_stats_baseline.py data/fpb results
 python src/fpb_finbert.py data/fpb results runs --epochs 3            # about 1 min on an 8 GB laptop GPU
 python src/ectsum_bart.py data/ectsum/ECTSum/data/final results runs --epochs 2 --bertscore   # about 6 min
+python src/factual_check.py results/ectsum_bart_test_preds.json data/ectsum/ECTSum/data/final/test/ects results/factual_check_head.json
 python src/event_rules.py data/fpb results
 python tools/build_readme.py
 ```
@@ -121,6 +123,7 @@ All seeds are fixed at 42. Model weights are written to `runs/` and are not comm
 | 2026-11-22 | Fine-tune FinBERT on the seed-42 PhraseBank split |
 | 2026-11-22 | Fine-tune BART-base on ECTSum with head truncation |
 | 2026-11-23 | Add rule-based financial event tagger and NER coverage on the PhraseBank test split |
+| 2026-11-25 | Add normalised number-support check for generated summaries |
 
 ## Team
 
