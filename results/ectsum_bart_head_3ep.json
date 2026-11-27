@@ -1,0 +1,55 @@
+{
+  "tag": "head_3ep",
+  "model": "facebook/bart-base",
+  "select": "head",
+  "seed": 42,
+  "n_train": 1681,
+  "n_test": 495,
+  "best_epoch": 2,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 2.3503,
+      "val100_rouge": {
+        "rouge1": 32.23,
+        "rouge2": 18.37,
+        "rougeL": 28.21
+      },
+      "elapsed_s": 119
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.8061,
+      "val100_rouge": {
+        "rouge1": 33.31,
+        "rouge2": 18.79,
+        "rougeL": 28.72
+      },
+      "elapsed_s": 227
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.7041,
+      "val100_rouge": {
+        "rouge1": 32.6,
+        "rouge2": 19.12,
+        "rougeL": 28.71
+      },
+      "elapsed_s": 331
+    }
+  ],
+  "train_seconds": 331,
+  "decoding": {
+    "min_new": 16,
+    "len_pen": 1.0,
+    "beams": 4,
+    "no_repeat_ngram": 3
+  },
+  "test_rouge": {
+    "rouge1": 32.49,
+    "rouge2": 18.13,
+    "rougeL": 28.31
+  },
+  "test_gen_seconds": 111,
+  "pred_words_mean": 23.5
+}

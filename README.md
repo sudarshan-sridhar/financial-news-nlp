@@ -52,8 +52,30 @@ ROUGE F1 x 100 with stemming. BERTScore F1 uses roberta-large without rescaling.
 | Lead-4 | 9.36 | 1.6 | 6.57 | - | - | - |
 | TF-IDF top-4 sentences | 7.98 | 0.62 | 5.51 | - | - | - |
 | BART-base, head truncation, 2 epochs | 32.09 | 17.77 | 28.15 | 0.8698 | 21.5 | 76% |
+| BART-base, head truncation, 3 epochs | 32.49 | 18.13 | 28.31 | - | 23.5 | 80% |
+| BART-base, head truncation, tuned decoding (min 48 tokens) | 33.5 | 16.58 | 27.36 | 0.8669 | 32.9 | 95% |
+| **BART-base, salient-sentence input, 2 epochs** | 36.26 | 23.58 | 32.34 | 0.8768 | 19.3 | 53% |
 
-> **Finding.** Fine-tuned BART more than triples the extractive ROUGE, but 76% of its summaries contain a number that is not in the transcript. The model learned the ECTSum reference template ("... versus refinitiv ibes estimate of ...") and fills it with invented figures.
+> **Finding.** Selecting salient sentences (TF-IDF similarity to the training references, 760-word budget) instead of truncating the head of the call raised ROUGE-L from 28.15 to 32.34 *and* cut the share of summaries with an invented number from 76% to 53%. The numbers the references care about often sit past the first 1,024 tokens.
+
+<details><summary>Decoding grid (validation, 100 docs): longer outputs raise ROUGE-1 and lower ROUGE-2</summary>
+
+| min new tokens | length penalty | R-1 | R-2 | R-L | words |
+|---|---|---|---|---|---|
+| 16 | 1.0 | 31.48 | 17.82 | 28.16 | 22.2 |
+| 16 | 1.5 | 33.08 | 17.69 | 28.51 | 26.4 |
+| 16 | 2.0 | 33.77 | 17.27 | 28.41 | 31.7 |
+| 32 | 1.0 | 32.37 | 17.58 | 28.26 | 25.1 |
+| 32 | 1.5 | 33.52 | 17.5 | 28.35 | 28.8 |
+| 32 | 2.0 | 34.04 | 17.02 | 28.3 | 34.0 |
+| 48 | 1.0 | 34.44 | 17.53 | 28.7 | 33.6 |
+| 48 | 1.5 | 34.61 | 17.09 | 28.12 | 38.0 |
+| 48 | 2.0 | 34.67 | 16.43 | 27.47 | 42.9 |
+| 64 | 1.0 | 34.9 | 16.65 | 27.53 | 42.9 |
+| 64 | 1.5 | 34.91 | 16.29 | 27.04 | 47.4 |
+| 64 | 2.0 | 34.79 | 15.96 | 26.72 | 51.2 |
+
+</details>
 
 ## Sentiment results (Financial PhraseBank test, 345 sentences)
 
@@ -92,6 +114,7 @@ src/
   ectsum_bart.py             BART-base fine-tuning with head truncation, ROUGE + BERTScore
   event_rules.py             rule-based event tagger + NER coverage
   factual_check.py           normalised number-support check of summaries against transcripts
+  ectsum_bart_v2.py          long-input (salient sentences) and decoding ablations
 results/                     one JSON (and prediction file) per experiment; every number above comes from here
 tools/build_readme.py        regenerates this README from results/
 ```
@@ -108,6 +131,7 @@ python src/ectsum_stats_baseline.py data/ectsum/ECTSum/data/final results
 python src/fpb_stats_baseline.py data/fpb results
 python src/fpb_finbert.py data/fpb results runs --epochs 3            # about 1 min on an 8 GB laptop GPU
 python src/ectsum_bart.py data/ectsum/ECTSum/data/final results runs --epochs 2 --bertscore   # about 6 min
+python src/ectsum_bart_v2.py data/ectsum/ECTSum/data/final results runs --tag salient --select salient --epochs 2 --bertscore
 python src/factual_check.py results/ectsum_bart_test_preds.json data/ectsum/ECTSum/data/final/test/ects results/factual_check_head.json
 python src/event_rules.py data/fpb results
 python tools/build_readme.py
@@ -124,6 +148,7 @@ All seeds are fixed at 42. Model weights are written to `runs/` and are not comm
 | 2026-11-22 | Fine-tune BART-base on ECTSum with head truncation |
 | 2026-11-23 | Add rule-based financial event tagger and NER coverage on the PhraseBank test split |
 | 2026-11-25 | Add normalised number-support check for generated summaries |
+| 2026-11-26 | Long-input and decoding ablations: salient-sentence input halves unsupported numbers |
 
 ## Team
 

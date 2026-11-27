@@ -1,0 +1,129 @@
+{
+  "tag": "head_sweep",
+  "model": "facebook/bart-base",
+  "select": "head",
+  "seed": 42,
+  "n_train": 1681,
+  "n_test": 495,
+  "ckpt": "../runs/bart_base_ectsum_best.pt",
+  "sweep_val100": [
+    {
+      "rouge1": 31.48,
+      "rouge2": 17.82,
+      "rougeL": 28.16,
+      "min_new": 16,
+      "len_pen": 1.0,
+      "pred_words": 22.2
+    },
+    {
+      "rouge1": 33.08,
+      "rouge2": 17.69,
+      "rougeL": 28.51,
+      "min_new": 16,
+      "len_pen": 1.5,
+      "pred_words": 26.4
+    },
+    {
+      "rouge1": 33.77,
+      "rouge2": 17.27,
+      "rougeL": 28.41,
+      "min_new": 16,
+      "len_pen": 2.0,
+      "pred_words": 31.7
+    },
+    {
+      "rouge1": 32.37,
+      "rouge2": 17.58,
+      "rougeL": 28.26,
+      "min_new": 32,
+      "len_pen": 1.0,
+      "pred_words": 25.1
+    },
+    {
+      "rouge1": 33.52,
+      "rouge2": 17.5,
+      "rougeL": 28.35,
+      "min_new": 32,
+      "len_pen": 1.5,
+      "pred_words": 28.8
+    },
+    {
+      "rouge1": 34.04,
+      "rouge2": 17.02,
+      "rougeL": 28.3,
+      "min_new": 32,
+      "len_pen": 2.0,
+      "pred_words": 34.0
+    },
+    {
+      "rouge1": 34.44,
+      "rouge2": 17.53,
+      "rougeL": 28.7,
+      "min_new": 48,
+      "len_pen": 1.0,
+      "pred_words": 33.6
+    },
+    {
+      "rouge1": 34.61,
+      "rouge2": 17.09,
+      "rougeL": 28.12,
+      "min_new": 48,
+      "len_pen": 1.5,
+      "pred_words": 38.0
+    },
+    {
+      "rouge1": 34.67,
+      "rouge2": 16.43,
+      "rougeL": 27.47,
+      "min_new": 48,
+      "len_pen": 2.0,
+      "pred_words": 42.9
+    },
+    {
+      "rouge1": 34.9,
+      "rouge2": 16.65,
+      "rougeL": 27.53,
+      "min_new": 64,
+      "len_pen": 1.0,
+      "pred_words": 42.9
+    },
+    {
+      "rouge1": 34.91,
+      "rouge2": 16.29,
+      "rougeL": 27.04,
+      "min_new": 64,
+      "len_pen": 1.5,
+      "pred_words": 47.4
+    },
+    {
+      "rouge1": 34.79,
+      "rouge2": 15.96,
+      "rougeL": 26.72,
+      "min_new": 64,
+      "len_pen": 2.0,
+      "pred_words": 51.2
+    }
+  ],
+  "sweep_best": {
+    "rouge1": 34.44,
+    "rouge2": 17.53,
+    "rougeL": 28.7,
+    "min_new": 48,
+    "len_pen": 1.0,
+    "pred_words": 33.6
+  },
+  "decoding": {
+    "min_new": 48,
+    "len_pen": 1.0,
+    "beams": 4,
+    "no_repeat_ngram": 3
+  },
+  "test_rouge": {
+    "rouge1": 33.5,
+    "rouge2": 16.58,
+    "rougeL": 27.36
+  },
+  "test_gen_seconds": 112,
+  "pred_words_mean": 32.9,
+  "test_bertscore_f1": 0.8669
+}

@@ -1,0 +1,46 @@
+{
+  "tag": "salient",
+  "model": "facebook/bart-base",
+  "select": "salient",
+  "seed": 42,
+  "n_train": 1681,
+  "n_test": 495,
+  "best_epoch": 2,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 2.1291,
+      "val100_rouge": {
+        "rouge1": 35.05,
+        "rouge2": 22.82,
+        "rougeL": 31.6
+      },
+      "elapsed_s": 113
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.6247,
+      "val100_rouge": {
+        "rouge1": 36.42,
+        "rouge2": 23.66,
+        "rougeL": 32.24
+      },
+      "elapsed_s": 218
+    }
+  ],
+  "train_seconds": 219,
+  "decoding": {
+    "min_new": 16,
+    "len_pen": 1.0,
+    "beams": 4,
+    "no_repeat_ngram": 3
+  },
+  "test_rouge": {
+    "rouge1": 36.26,
+    "rouge2": 23.58,
+    "rougeL": 32.34
+  },
+  "test_gen_seconds": 297,
+  "pred_words_mean": 19.3,
+  "test_bertscore_f1": 0.8768
+}
