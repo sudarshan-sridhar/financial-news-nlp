@@ -40,6 +40,7 @@ flowchart LR
 |---|---|---|---|
 | [ECTSum](https://github.com/rajdeep345/ECTSum) | abstractive summarization | released 1681 / 249 / 495 | transcripts average 2842 words; 0.9761 exceed BART's 1,024-token window |
 | [Financial PhraseBank](https://huggingface.co/datasets/takala/financial_phrasebank) | 3-class sentence sentiment | 75% agreement subset, stratified seed-42 split 2758 / 345 / 345 | 5 duplicates removed; neutral is about 62% of every split, so macro-F1 is the headline metric |
+| FiQA 2018 headlines | held-out sentiment check | 436 headlines (pos 208 / neu 121 / neg 107) | scores thresholded at ±0.2; never seen by any model here |
 
 The PhraseBank split indices are committed in `data/fpb/split_seed42.json`; every script reads that file, so all experiments share the same test sentences.
 
@@ -84,9 +85,19 @@ ROUGE F1 x 100 with stemming. BERTScore F1 uses roberta-large without rescaling.
 | Majority class (neutral) | 0.6203 | 0.2552 | 0.00 | 0.77 | 0.00 |
 | TF-IDF 1-2gram + logistic regression | 0.864 | 0.807 | 0.72 | 0.91 | 0.79 |
 | FinBERT released head (ProsusAI/finbert, trained on PhraseBank by its authors) | 0.954 | 0.945 | 0.94 | 0.97 | 0.92 |
-| **FinBERT fine-tuned on our split** | **0.965** | **0.952** | 0.94 | 0.98 | 0.93 |
+| **FinBERT fine-tuned on our split, mean of 3 seeds** | **0.956** (0.942 to 0.965) | **0.947** (0.936 to 0.954) | 0.95 | 0.97 | 0.92 |
 
 > **Caveat.** The released FinBERT checkpoint was itself fine-tuned on Financial PhraseBank, so its row is not a clean held-out number. The TF-IDF model is the honest baseline; the fine-tuned model on our own split is the main result.
+
+### Held-out check on FiQA headlines (never seen by any model)
+
+| Model | Accuracy | Macro-F1 |
+|---|---|---|
+| TF-IDF + logistic regression | 0.429 | 0.392 |
+| FinBERT released head | 0.667 | 0.674 |
+| FinBERT fine-tuned on our PhraseBank split | 0.576 | 0.598 |
+
+> Out of domain everything drops hard. The finance-adapted encoder still beats the lexical baseline by about 20 macro-F1 points, but fine-tuning on PhraseBank taught the model a strong *neutral* prior that mislabels short opinionated headlines. The in-domain 0.95 does not travel.
 
 ## Events and entities (PhraseBank test, 345 sentences)
 
@@ -115,6 +126,7 @@ src/
   event_rules.py             rule-based event tagger + NER coverage
   factual_check.py           normalised number-support check of summaries against transcripts
   ectsum_bart_v2.py          long-input (salient sentences) and decoding ablations
+  fpb_heldout_fiqa.py        FiQA headline held-out check for all sentiment models
 results/                     one JSON (and prediction file) per experiment; every number above comes from here
 tools/build_readme.py        regenerates this README from results/
 ```
@@ -134,6 +146,7 @@ python src/ectsum_bart.py data/ectsum/ECTSum/data/final results runs --epochs 2 
 python src/ectsum_bart_v2.py data/ectsum/ECTSum/data/final results runs --tag salient --select salient --epochs 2 --bertscore
 python src/factual_check.py results/ectsum_bart_test_preds.json data/ectsum/ECTSum/data/final/test/ects results/factual_check_head.json
 python src/event_rules.py data/fpb results
+python src/fpb_heldout_fiqa.py data/fpb data/fiqa runs results
 python tools/build_readme.py
 ```
 
@@ -149,6 +162,7 @@ All seeds are fixed at 42. Model weights are written to `runs/` and are not comm
 | 2026-11-23 | Add rule-based financial event tagger and NER coverage on the PhraseBank test split |
 | 2026-11-25 | Add normalised number-support check for generated summaries |
 | 2026-11-26 | Long-input and decoding ablations: salient-sentence input halves unsupported numbers |
+| 2026-11-27 | Seed robustness and FiQA held-out check for the sentiment models |
 
 ## Team
 

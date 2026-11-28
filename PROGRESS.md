@@ -6,3 +6,4 @@
 | 2026-11-23 | Add rule-based financial event tagger and NER coverage on the PhraseBank test split |
 | 2026-11-25 | Add normalised number-support check for generated summaries |
 | 2026-11-26 | Long-input and decoding ablations: salient-sentence input halves unsupported numbers |
+| 2026-11-27 | Seed robustness and FiQA held-out check for the sentiment models |

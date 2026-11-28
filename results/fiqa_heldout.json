@@ -1,0 +1,88 @@
+{
+  "source": "pauri32/fiqa-2018 (FiQA 2018 task 1), headlines only, all splits, deduplicated",
+  "threshold": 0.2,
+  "n": 436,
+  "label_counts": {
+    "positive": 208,
+    "neutral": 121,
+    "negative": 107
+  },
+  "tfidf_logreg": {
+    "accuracy": 0.4289,
+    "macro_f1": 0.3918,
+    "per_class_f1": {
+      "negative": 0.2576,
+      "neutral": 0.4638,
+      "positive": 0.454
+    },
+    "confusion": [
+      [
+        17,
+        67,
+        23
+      ],
+      [
+        4,
+        96,
+        21
+      ],
+      [
+        4,
+        130,
+        74
+      ]
+    ]
+  },
+  "finbert_released": {
+    "accuracy": 0.6674,
+    "macro_f1": 0.6745,
+    "per_class_f1": {
+      "negative": 0.7739,
+      "neutral": 0.5714,
+      "positive": 0.6782
+    },
+    "confusion": [
+      [
+        89,
+        10,
+        8
+      ],
+      [
+        23,
+        84,
+        14
+      ],
+      [
+        11,
+        79,
+        118
+      ]
+    ]
+  },
+  "finbert_finetuned": {
+    "accuracy": 0.5757,
+    "macro_f1": 0.5981,
+    "per_class_f1": {
+      "negative": 0.7358,
+      "neutral": 0.5365,
+      "positive": 0.522
+    },
+    "confusion": [
+      [
+        71,
+        33,
+        3
+      ],
+      [
+        11,
+        103,
+        7
+      ],
+      [
+        4,
+        127,
+        77
+      ]
+    ]
+  }
+}
